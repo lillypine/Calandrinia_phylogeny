@@ -1,0 +1,6 @@
+g7_loci.txt
+g4_loci.txt
+g2_loci.txt
+98i_loci.txt
+62i_loci.txt
+40i_loci.txt

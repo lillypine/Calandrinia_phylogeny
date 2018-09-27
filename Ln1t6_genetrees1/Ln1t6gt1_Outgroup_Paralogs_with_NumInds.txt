@@ -1,0 +1,11 @@
+11	nGroup_1537_2,nadme2_2,nGroup_20351_2,nGroup_2238_1,dic_1112_1_1,nGroup_24195_2,nGroup_2917_2,nGroup_1706_1,nGroup_10776_1,nadpmdh2_2,Ambig_asp2_none_1
+10	apl1_2,nadmdh_1_1_2,nadmdh_1_2,nGroup_7713_2,nGroup_22334_1,asp3132_1,nGroup_15299_2,nadme1_1,asp1_1,nhd_2,19448og_2,alaAT_1,nGroup_19417_2,apl4_2,nadpmdh1_1,nGroup_8489_2,rbcs_2,nGroup_12443_2,dit1_2,nGroup_13658_2,nGroup_7482_2,nGroup_902_1
+9	nGroup_18890_2,nGroup_24488_2,ppt2_1,nGroup_22620_2,nGroup_16321_2,nGroup_16219_1,nGroup_24434_2,amk2,nGroup_10860_2,amk1_2,nGroup_4237_2,bass_2,ppc2_1,nGroup_6416_2,nGroup_20409_1,nGroup_19153_2,nGroup_2489_2,ppdk_2,nGroup_7264_2,nGroup_2241_2,nGroup_9112_2,nGroup_18627_2,nadpme_2,nGroup_3058_2
+8	nadmdh_1_1_1,tdt_1,nGroup_8998_2,nGroup_17974_2,betaCA_1,nGroup_19342_1_2_2,nGroup_796_2,nGroup_6312_2,10951og_2
+7	dit2_2,Ambig_ppt1_none_1,nGroup_18355_2,dic_2_2,apl2_1,nGroup_11253_2,apl3_2,nGroup_15311_2
+6	nGroup_6043_2,pck_1,nGroup_3000_1,nGroup_441_1,nGroup_16157_1,nGroup_3292_2,nGroup_18875_2
+5	asp3132_2,nGroup_16142_2,nGroup_1213_2,nadpmdh2_1,nadpme_1_2,ppc1_1
+4	nadmdh_1_1_2_2,nGroup_7713_1,nGroup_15299_1,ppc1_2
+3	nadmdh_1_1_1_1,asp1_2,dic_2_1,nGroup_11253_1,betaCA_1_2,nGroup_7264_1
+2	nadmdh_1_2_1,pck_2,19448og_1,dic_1112_1_1_1_2,441og1_1,betaCA_1_3,10951og_1,nadpme_1_1
+1	nadmdh1_1,3000og_1,nGroup_3000_1_1_2,dic_1112_1_1_1_1,dic_1112_1_2,Oryza_sativa_cds_1,nGroup_441_1_2,alaAT_2,Oryza_sativa_cds.1706og.R_OS06G0308300_OS06T0308300-01,Oryza_sativa_cds.10776og.R_OS04G0643000_OS04T0643000-01,betaCA1_1,phyC_4

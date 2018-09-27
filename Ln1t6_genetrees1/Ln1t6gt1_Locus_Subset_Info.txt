@@ -1,0 +1,7 @@
+Subset_Name	Number_of_Loci	Mean_Number_of_Loci_per_Individual	Proportion_Missing
+40i_loci.txt	165	126.63	0.2325
+62i_loci.txt	142	116.91	0.1767
+98i_loci.txt	74	68.14	0.0792
+g2_loci.txt	342	142.48	0.5834
+g4_loci.txt	224	135.84	0.3936
+g7_loci.txt	116	97.87	0.1563
