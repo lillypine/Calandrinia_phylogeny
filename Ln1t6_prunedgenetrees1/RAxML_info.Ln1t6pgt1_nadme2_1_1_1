@@ -1,0 +1,302 @@
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 297 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 60.32%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 297
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nadme2_1_1_1.phy -n Ln1t6pgt1_nadme2_1_1_1 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Calandrinia_ciliata_2014,Calandrinia_sp_220,Calandrinia_colchagensis_146 -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 0.288550
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[0]: Time 0.509431 seconds, bootstrap likelihood -2929.160651, best rearrangement setting 10
+Bootstrap[1]: Time 0.175610 seconds, bootstrap likelihood -2956.049178, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[2]: Time 0.168572 seconds, bootstrap likelihood -2914.740765, best rearrangement setting 15
+Bootstrap[3]: Time 0.221512 seconds, bootstrap likelihood -2770.846453, best rearrangement setting 12
+Bootstrap[4]: Time 0.204403 seconds, bootstrap likelihood -2990.573531, best rearrangement setting 9
+Bootstrap[5]: Time 0.202776 seconds, bootstrap likelihood -2989.487791, best rearrangement setting 12
+Bootstrap[6]: Time 0.176999 seconds, bootstrap likelihood -3072.728940, best rearrangement setting 14
+Bootstrap[7]: Time 0.149236 seconds, bootstrap likelihood -2902.999279, best rearrangement setting 10
+Bootstrap[8]: Time 0.101634 seconds, bootstrap likelihood -2901.544421, best rearrangement setting 13
+Bootstrap[9]: Time 0.090517 seconds, bootstrap likelihood -3060.948758, best rearrangement setting 14
+Bootstrap[10]: Time 0.170688 seconds, bootstrap likelihood -2920.851130, best rearrangement setting 14
+Bootstrap[11]: Time 0.214739 seconds, bootstrap likelihood -3024.956267, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[12]: Time 0.174207 seconds, bootstrap likelihood -2929.348214, best rearrangement setting 9
+Bootstrap[13]: Time 0.194586 seconds, bootstrap likelihood -3000.779035, best rearrangement setting 10
+Bootstrap[14]: Time 0.092424 seconds, bootstrap likelihood -2986.199679, best rearrangement setting 13
+Bootstrap[15]: Time 0.170586 seconds, bootstrap likelihood -2897.810863, best rearrangement setting 6
+Bootstrap[16]: Time 0.182593 seconds, bootstrap likelihood -2850.600046, best rearrangement setting 15
+Bootstrap[17]: Time 0.179587 seconds, bootstrap likelihood -2999.129082, best rearrangement setting 13
+Bootstrap[18]: Time 0.193757 seconds, bootstrap likelihood -3113.404355, best rearrangement setting 9
+Bootstrap[19]: Time 0.183594 seconds, bootstrap likelihood -3074.407333, best rearrangement setting 8
+Bootstrap[20]: Time 0.194947 seconds, bootstrap likelihood -2915.746847, best rearrangement setting 13
+Bootstrap[21]: Time 0.179191 seconds, bootstrap likelihood -2971.846620, best rearrangement setting 10
+Bootstrap[22]: Time 0.182709 seconds, bootstrap likelihood -2890.582969, best rearrangement setting 5
+Bootstrap[23]: Time 0.081279 seconds, bootstrap likelihood -2951.166703, best rearrangement setting 10
+Bootstrap[24]: Time 0.067792 seconds, bootstrap likelihood -2791.017300, best rearrangement setting 14
+Bootstrap[25]: Time 0.087493 seconds, bootstrap likelihood -2971.880804, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[26]: Time 0.209617 seconds, bootstrap likelihood -2954.175060, best rearrangement setting 11
+Bootstrap[27]: Time 0.189457 seconds, bootstrap likelihood -2976.170215, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[28]: Time 0.186508 seconds, bootstrap likelihood -2905.396558, best rearrangement setting 8
+Bootstrap[29]: Time 0.195554 seconds, bootstrap likelihood -2877.540619, best rearrangement setting 13
+Bootstrap[30]: Time 0.197526 seconds, bootstrap likelihood -2980.379667, best rearrangement setting 6
+Bootstrap[31]: Time 0.205064 seconds, bootstrap likelihood -2860.392456, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[32]: Time 0.183181 seconds, bootstrap likelihood -2946.884722, best rearrangement setting 13
+Bootstrap[33]: Time 0.222789 seconds, bootstrap likelihood -3003.251636, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[34]: Time 0.170397 seconds, bootstrap likelihood -2931.306969, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[35]: Time 0.104150 seconds, bootstrap likelihood -2934.547411, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[36]: Time 0.088141 seconds, bootstrap likelihood -2880.233122, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[37]: Time 0.077714 seconds, bootstrap likelihood -2915.410647, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[38]: Time 0.197491 seconds, bootstrap likelihood -2966.823524, best rearrangement setting 12
+Bootstrap[39]: Time 0.169761 seconds, bootstrap likelihood -2957.713713, best rearrangement setting 13
+Bootstrap[40]: Time 0.197281 seconds, bootstrap likelihood -3011.306130, best rearrangement setting 14
+Bootstrap[41]: Time 0.193216 seconds, bootstrap likelihood -2932.821489, best rearrangement setting 13
+Bootstrap[42]: Time 0.189852 seconds, bootstrap likelihood -2934.513608, best rearrangement setting 10
+Bootstrap[43]: Time 0.217428 seconds, bootstrap likelihood -2997.888138, best rearrangement setting 13
+Bootstrap[44]: Time 0.066767 seconds, bootstrap likelihood -2931.858880, best rearrangement setting 7
+Bootstrap[45]: Time 0.174282 seconds, bootstrap likelihood -2846.701790, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[46]: Time 0.174057 seconds, bootstrap likelihood -2998.792374, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[47]: Time 0.177522 seconds, bootstrap likelihood -2995.642496, best rearrangement setting 11
+Bootstrap[48]: Time 0.197957 seconds, bootstrap likelihood -3017.909709, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[49]: Time 0.206933 seconds, bootstrap likelihood -2995.364617, best rearrangement setting 15
+Bootstrap[50]: Time 0.167185 seconds, bootstrap likelihood -2919.492188, best rearrangement setting 8
+Bootstrap[51]: Time 0.187938 seconds, bootstrap likelihood -2968.522296, best rearrangement setting 5
+Bootstrap[52]: Time 0.177896 seconds, bootstrap likelihood -2937.741949, best rearrangement setting 7
+Bootstrap[53]: Time 0.194648 seconds, bootstrap likelihood -2955.485024, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[54]: Time 0.167813 seconds, bootstrap likelihood -2999.120718, best rearrangement setting 7
+Bootstrap[55]: Time 0.165380 seconds, bootstrap likelihood -2969.424434, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[56]: Time 0.181185 seconds, bootstrap likelihood -2955.598951, best rearrangement setting 5
+Bootstrap[57]: Time 0.238606 seconds, bootstrap likelihood -2990.114384, best rearrangement setting 12
+Bootstrap[58]: Time 0.213779 seconds, bootstrap likelihood -2978.116274, best rearrangement setting 15
+Bootstrap[59]: Time 0.193944 seconds, bootstrap likelihood -3059.716755, best rearrangement setting 6
+Bootstrap[60]: Time 0.149104 seconds, bootstrap likelihood -2883.631470, best rearrangement setting 9
+Bootstrap[61]: Time 0.195099 seconds, bootstrap likelihood -3034.666004, best rearrangement setting 9
+Bootstrap[62]: Time 0.207343 seconds, bootstrap likelihood -2911.891320, best rearrangement setting 10
+Bootstrap[63]: Time 0.157546 seconds, bootstrap likelihood -3072.400860, best rearrangement setting 12
+Bootstrap[64]: Time 0.081697 seconds, bootstrap likelihood -2991.207235, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[65]: Time 0.190085 seconds, bootstrap likelihood -2870.509757, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[66]: Time 0.203025 seconds, bootstrap likelihood -3011.332776, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[67]: Time 0.181687 seconds, bootstrap likelihood -3044.709138, best rearrangement setting 15
+Bootstrap[68]: Time 0.211263 seconds, bootstrap likelihood -2875.107250, best rearrangement setting 10
+Bootstrap[69]: Time 0.083139 seconds, bootstrap likelihood -2987.717257, best rearrangement setting 13
+Bootstrap[70]: Time 0.192931 seconds, bootstrap likelihood -3117.829884, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[71]: Time 0.169448 seconds, bootstrap likelihood -2966.602285, best rearrangement setting 11
+Bootstrap[72]: Time 0.191135 seconds, bootstrap likelihood -3006.781528, best rearrangement setting 13
+Bootstrap[73]: Time 0.081828 seconds, bootstrap likelihood -2926.173128, best rearrangement setting 5
+Bootstrap[74]: Time 0.093405 seconds, bootstrap likelihood -3095.068386, best rearrangement setting 6
+Bootstrap[75]: Time 0.178083 seconds, bootstrap likelihood -2980.363879, best rearrangement setting 11
+Bootstrap[76]: Time 0.223800 seconds, bootstrap likelihood -2947.926779, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[77]: Time 0.214163 seconds, bootstrap likelihood -3003.383813, best rearrangement setting 8
+Bootstrap[78]: Time 0.188664 seconds, bootstrap likelihood -2943.680817, best rearrangement setting 13
+Bootstrap[79]: Time 0.215400 seconds, bootstrap likelihood -2955.924867, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[80]: Time 0.172650 seconds, bootstrap likelihood -3041.337945, best rearrangement setting 9
+Bootstrap[81]: Time 0.155921 seconds, bootstrap likelihood -2865.034559, best rearrangement setting 10
+Bootstrap[82]: Time 0.191003 seconds, bootstrap likelihood -2976.527123, best rearrangement setting 7
+Bootstrap[83]: Time 0.197735 seconds, bootstrap likelihood -2978.723151, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[84]: Time 0.155640 seconds, bootstrap likelihood -3002.337284, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[85]: Time 0.168356 seconds, bootstrap likelihood -2966.004357, best rearrangement setting 10
+Bootstrap[86]: Time 0.183487 seconds, bootstrap likelihood -2957.892286, best rearrangement setting 9
+Bootstrap[87]: Time 0.069893 seconds, bootstrap likelihood -2930.719622, best rearrangement setting 5
+Bootstrap[88]: Time 0.194356 seconds, bootstrap likelihood -3029.586896, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[89]: Time 0.162211 seconds, bootstrap likelihood -2957.191972, best rearrangement setting 6
+Bootstrap[90]: Time 0.175284 seconds, bootstrap likelihood -3024.896510, best rearrangement setting 13
+Bootstrap[91]: Time 0.169573 seconds, bootstrap likelihood -2926.400409, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[92]: Time 0.209376 seconds, bootstrap likelihood -2850.321299, best rearrangement setting 7
+Bootstrap[93]: Time 0.171590 seconds, bootstrap likelihood -2826.686269, best rearrangement setting 11
+Bootstrap[94]: Time 0.195120 seconds, bootstrap likelihood -2950.150602, best rearrangement setting 15
+Bootstrap[95]: Time 0.188180 seconds, bootstrap likelihood -2954.385602, best rearrangement setting 15
+Bootstrap[96]: Time 0.221893 seconds, bootstrap likelihood -2984.192105, best rearrangement setting 5
+Bootstrap[97]: Time 0.170679 seconds, bootstrap likelihood -2951.976735, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calandrinia_ciliata_2014"
+from the list to root the tree!
+Bootstrap[98]: Time 0.195714 seconds, bootstrap likelihood -2944.030914, best rearrangement setting 7
+Bootstrap[99]: Time 0.199466 seconds, bootstrap likelihood -2966.557392, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 17.634243 seconds
+Average Time per Rapid Bootstrap 0.176342 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 11.339097 seconds
+
+Slow ML Search 0 Likelihood: -3579.018341
+Slow ML Search 1 Likelihood: -3579.018341
+Slow ML Search 2 Likelihood: -3579.018341
+Slow ML Search 3 Likelihood: -3579.018341
+Slow ML Search 4 Likelihood: -3579.018341
+Slow ML Search 5 Likelihood: -3579.018341
+Slow ML Search 6 Likelihood: -3579.018341
+Slow ML Search 7 Likelihood: -3577.549629
+Slow ML Search 8 Likelihood: -3577.549629
+Slow ML Search 9 Likelihood: -3577.549629
+Slow ML optimization finished
+
+Slow ML search Time: 3.371006 seconds
+Thorough ML search Time: 0.574019 seconds
+
+Final ML Optimization Likelihood: -3576.199253
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 1.347912
+Tree-Length: 0.771446
+rate A <-> C: 1.732668
+rate A <-> G: 2.400738
+rate A <-> T: 0.722126
+rate C <-> G: 1.042164
+rate C <-> T: 2.919296
+rate G <-> T: 1.000000
+
+freq pi(A): 0.274299
+freq pi(C): 0.178212
+freq pi(G): 0.266269
+freq pi(T): 0.281219
+
+
+ML search took 15.289931 secs or 0.004247 hours
+
+Combined Bootstrap and ML search took 32.924278 secs or 0.009146 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadme2_1_1_1
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadme2_1_1_1
+
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_nadme2_1_1_1
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_nadme2_1_1_1
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadme2_1_1_1
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_nadme2_1_1_1
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_nadme2_1_1_1
+
+Overall execution time for full ML analysis: 32.931018 secs or 0.009148 hours or 0.000381 days
+

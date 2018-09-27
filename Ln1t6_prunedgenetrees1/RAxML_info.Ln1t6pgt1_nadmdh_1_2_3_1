@@ -1,0 +1,540 @@
+
+
+IMPORTANT WARNING: Sequences Calandrinia_reticulata_53 and Calandrinia_reticulata_149 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nadmdh_1_2_3_1.phy.reduced
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 373 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 32.35%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 373
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nadmdh_1_2_3_1.phy -n Ln1t6pgt1_nadmdh_1_2_3_1 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Calyptridium_umbellatum_193,Calyptridium_monospermum_108 -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 0.324188
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[0]: Time 1.144983 seconds, bootstrap likelihood -3896.934502, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[1]: Time 0.763490 seconds, bootstrap likelihood -3827.776204, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[2]: Time 0.666401 seconds, bootstrap likelihood -3620.960097, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[3]: Time 0.717328 seconds, bootstrap likelihood -3519.992277, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[4]: Time 0.812426 seconds, bootstrap likelihood -3418.031414, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[5]: Time 0.692552 seconds, bootstrap likelihood -3629.332854, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[6]: Time 0.893495 seconds, bootstrap likelihood -3549.071601, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[7]: Time 0.804122 seconds, bootstrap likelihood -3467.061716, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[8]: Time 0.840828 seconds, bootstrap likelihood -3492.410435, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[9]: Time 0.754034 seconds, bootstrap likelihood -3949.376669, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[10]: Time 0.732272 seconds, bootstrap likelihood -3648.199331, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[11]: Time 0.793448 seconds, bootstrap likelihood -3859.009020, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[12]: Time 0.831670 seconds, bootstrap likelihood -3649.224052, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[13]: Time 0.704251 seconds, bootstrap likelihood -3692.798155, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[14]: Time 0.815073 seconds, bootstrap likelihood -3697.463245, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[15]: Time 0.779936 seconds, bootstrap likelihood -3980.658442, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[16]: Time 0.753378 seconds, bootstrap likelihood -3566.379014, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[17]: Time 0.784154 seconds, bootstrap likelihood -3729.158676, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[18]: Time 0.773543 seconds, bootstrap likelihood -3614.602323, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[19]: Time 0.866438 seconds, bootstrap likelihood -3468.267312, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[20]: Time 0.818471 seconds, bootstrap likelihood -3587.747086, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[21]: Time 0.957568 seconds, bootstrap likelihood -3582.408532, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[22]: Time 0.703658 seconds, bootstrap likelihood -3729.429296, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[23]: Time 0.755234 seconds, bootstrap likelihood -3837.407432, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[24]: Time 0.804239 seconds, bootstrap likelihood -3387.825977, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[25]: Time 0.826102 seconds, bootstrap likelihood -3568.366922, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[26]: Time 0.770018 seconds, bootstrap likelihood -3301.127172, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[27]: Time 0.766352 seconds, bootstrap likelihood -3822.271741, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[28]: Time 0.785364 seconds, bootstrap likelihood -3727.917450, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[29]: Time 0.674685 seconds, bootstrap likelihood -3732.557578, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[30]: Time 0.695369 seconds, bootstrap likelihood -3617.192806, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[31]: Time 0.796160 seconds, bootstrap likelihood -3376.574306, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[32]: Time 0.796778 seconds, bootstrap likelihood -3529.644698, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[33]: Time 0.813423 seconds, bootstrap likelihood -3701.443574, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[34]: Time 0.700986 seconds, bootstrap likelihood -3675.323519, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[35]: Time 0.818291 seconds, bootstrap likelihood -3778.981303, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[36]: Time 0.678308 seconds, bootstrap likelihood -3527.088834, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[37]: Time 0.709274 seconds, bootstrap likelihood -3687.276766, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[38]: Time 0.881367 seconds, bootstrap likelihood -3760.665925, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[39]: Time 0.856805 seconds, bootstrap likelihood -3614.156604, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[40]: Time 0.980356 seconds, bootstrap likelihood -3607.456457, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[41]: Time 0.727291 seconds, bootstrap likelihood -3768.819314, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[42]: Time 0.669888 seconds, bootstrap likelihood -3789.513768, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[43]: Time 0.742298 seconds, bootstrap likelihood -3680.613239, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[44]: Time 0.771915 seconds, bootstrap likelihood -3453.125173, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[45]: Time 0.696093 seconds, bootstrap likelihood -3697.082587, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[46]: Time 0.641974 seconds, bootstrap likelihood -3608.245824, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[47]: Time 0.704862 seconds, bootstrap likelihood -3821.216214, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[48]: Time 0.806711 seconds, bootstrap likelihood -3609.304988, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[49]: Time 0.648776 seconds, bootstrap likelihood -3379.997149, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[50]: Time 0.864567 seconds, bootstrap likelihood -3550.023738, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[51]: Time 0.731385 seconds, bootstrap likelihood -3823.813173, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[52]: Time 0.665102 seconds, bootstrap likelihood -3491.904119, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[53]: Time 0.706526 seconds, bootstrap likelihood -3675.556903, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[54]: Time 0.728749 seconds, bootstrap likelihood -3557.619094, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[55]: Time 0.790187 seconds, bootstrap likelihood -3635.606053, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[56]: Time 0.787530 seconds, bootstrap likelihood -3735.725260, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[57]: Time 0.983898 seconds, bootstrap likelihood -3685.234211, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[58]: Time 0.783420 seconds, bootstrap likelihood -3602.837290, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[59]: Time 0.848304 seconds, bootstrap likelihood -3614.249452, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[60]: Time 0.840717 seconds, bootstrap likelihood -3720.349243, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[61]: Time 0.771831 seconds, bootstrap likelihood -3760.862778, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[62]: Time 0.844054 seconds, bootstrap likelihood -3523.015604, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[63]: Time 0.744911 seconds, bootstrap likelihood -3498.795041, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[64]: Time 0.647300 seconds, bootstrap likelihood -3560.143543, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[65]: Time 0.740556 seconds, bootstrap likelihood -3857.692269, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[66]: Time 0.771719 seconds, bootstrap likelihood -3595.293329, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[67]: Time 0.704261 seconds, bootstrap likelihood -3362.465237, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[68]: Time 0.818604 seconds, bootstrap likelihood -3598.019603, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[69]: Time 0.868369 seconds, bootstrap likelihood -3569.440065, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[70]: Time 0.943018 seconds, bootstrap likelihood -3525.905348, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[71]: Time 0.811465 seconds, bootstrap likelihood -3831.199635, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[72]: Time 0.737680 seconds, bootstrap likelihood -3623.993876, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[73]: Time 0.821450 seconds, bootstrap likelihood -3771.362455, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[74]: Time 0.704905 seconds, bootstrap likelihood -3609.072822, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[75]: Time 0.801084 seconds, bootstrap likelihood -3811.869757, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[76]: Time 0.779819 seconds, bootstrap likelihood -3769.374827, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[77]: Time 0.831911 seconds, bootstrap likelihood -4012.580636, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[78]: Time 0.717204 seconds, bootstrap likelihood -3775.135346, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[79]: Time 0.838296 seconds, bootstrap likelihood -3707.342475, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[80]: Time 0.796872 seconds, bootstrap likelihood -3534.355869, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[81]: Time 0.661761 seconds, bootstrap likelihood -3711.386658, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[82]: Time 0.807251 seconds, bootstrap likelihood -3696.688632, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[83]: Time 0.808085 seconds, bootstrap likelihood -3472.992871, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[84]: Time 0.752322 seconds, bootstrap likelihood -3438.165050, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[85]: Time 0.682320 seconds, bootstrap likelihood -3748.847065, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[86]: Time 0.809389 seconds, bootstrap likelihood -3943.686067, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[87]: Time 0.739812 seconds, bootstrap likelihood -3544.412979, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[88]: Time 0.733910 seconds, bootstrap likelihood -3598.455865, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[89]: Time 0.684032 seconds, bootstrap likelihood -4003.147012, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[90]: Time 0.797238 seconds, bootstrap likelihood -3781.015470, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[91]: Time 0.720059 seconds, bootstrap likelihood -3582.372557, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[92]: Time 0.744974 seconds, bootstrap likelihood -3495.696346, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[93]: Time 0.751420 seconds, bootstrap likelihood -3725.489562, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[94]: Time 0.744868 seconds, bootstrap likelihood -3772.677366, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[95]: Time 0.829671 seconds, bootstrap likelihood -3388.301801, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[96]: Time 0.744363 seconds, bootstrap likelihood -3730.096843, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[97]: Time 0.835246 seconds, bootstrap likelihood -3581.675575, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[98]: Time 0.687495 seconds, bootstrap likelihood -3592.899614, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Bootstrap[99]: Time 0.728332 seconds, bootstrap likelihood -3821.759120, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 77.659658 seconds
+Average Time per Rapid Bootstrap 0.776597 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 46.960145 seconds
+
+Slow ML Search 0 Likelihood: -4274.786701
+Slow ML Search 1 Likelihood: -4274.786701
+Slow ML Search 2 Likelihood: -4274.786684
+Slow ML Search 3 Likelihood: -4274.786816
+Slow ML Search 4 Likelihood: -4275.590439
+Slow ML Search 5 Likelihood: -4275.590623
+Slow ML Search 6 Likelihood: -4275.590877
+Slow ML Search 7 Likelihood: -4274.787403
+Slow ML Search 8 Likelihood: -4275.590851
+Slow ML Search 9 Likelihood: -4274.787343
+Slow ML optimization finished
+
+Slow ML search Time: 25.834590 seconds
+Thorough ML search Time: 5.123837 seconds
+
+Final ML Optimization Likelihood: -4271.812408
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.465026
+Tree-Length: 1.630510
+rate A <-> C: 1.796323
+rate A <-> G: 4.232194
+rate A <-> T: 1.590209
+rate C <-> G: 0.998030
+rate C <-> T: 6.642146
+rate G <-> T: 1.000000
+
+freq pi(A): 0.264916
+freq pi(C): 0.208781
+freq pi(G): 0.260477
+freq pi(T): 0.265826
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+
+ML search took 77.928486 secs or 0.021647 hours
+
+Combined Bootstrap and ML search took 155.588249 secs or 0.043219 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadmdh_1_2_3_1
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadmdh_1_2_3_1
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_umbellatum_193"
+from the list to root the tree!
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_nadmdh_1_2_3_1
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_nadmdh_1_2_3_1
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadmdh_1_2_3_1
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_nadmdh_1_2_3_1
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_nadmdh_1_2_3_1
+
+Overall execution time for full ML analysis: 155.597834 secs or 0.043222 hours or 0.001801 days
+

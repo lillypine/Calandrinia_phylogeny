@@ -1,0 +1,369 @@
+
+
+IMPORTANT WARNING: Sequences Calandrinia_ptychosperma_166 and Calandrinia_ptychosperma_5 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nadpmdh2_10.phy.reduced
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 464 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 47.93%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 464
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nadpmdh2_10.phy -n Ln1t6pgt1_nadpmdh2_10 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Alluaudia_procera_53,Anredera_baselloides_38 -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 1.831745
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[0]: Time 3.366558 seconds, bootstrap likelihood -7037.606772, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[1]: Time 1.566490 seconds, bootstrap likelihood -6452.889947, best rearrangement setting 15
+Bootstrap[2]: Time 1.466289 seconds, bootstrap likelihood -6585.427511, best rearrangement setting 15
+Bootstrap[3]: Time 1.512683 seconds, bootstrap likelihood -6734.075894, best rearrangement setting 12
+Bootstrap[4]: Time 1.492462 seconds, bootstrap likelihood -6739.693161, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[5]: Time 1.860671 seconds, bootstrap likelihood -6894.100452, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[6]: Time 1.577505 seconds, bootstrap likelihood -6982.522222, best rearrangement setting 14
+Bootstrap[7]: Time 1.450970 seconds, bootstrap likelihood -6964.133924, best rearrangement setting 10
+Bootstrap[8]: Time 1.509561 seconds, bootstrap likelihood -6813.930114, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[9]: Time 1.567552 seconds, bootstrap likelihood -6787.337486, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[10]: Time 1.761782 seconds, bootstrap likelihood -6591.544216, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[11]: Time 1.623873 seconds, bootstrap likelihood -6757.024704, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[12]: Time 1.682751 seconds, bootstrap likelihood -6904.295271, best rearrangement setting 9
+Bootstrap[13]: Time 1.454760 seconds, bootstrap likelihood -6922.728744, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[14]: Time 1.912539 seconds, bootstrap likelihood -6741.316939, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[15]: Time 1.557000 seconds, bootstrap likelihood -7403.306283, best rearrangement setting 6
+Bootstrap[16]: Time 1.804435 seconds, bootstrap likelihood -6764.788870, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[17]: Time 1.291521 seconds, bootstrap likelihood -7432.059823, best rearrangement setting 13
+Bootstrap[18]: Time 1.445279 seconds, bootstrap likelihood -6951.556167, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[19]: Time 1.380273 seconds, bootstrap likelihood -6134.586282, best rearrangement setting 8
+Bootstrap[20]: Time 1.773368 seconds, bootstrap likelihood -7148.422349, best rearrangement setting 13
+Bootstrap[21]: Time 1.879380 seconds, bootstrap likelihood -6412.313141, best rearrangement setting 10
+Bootstrap[22]: Time 1.667921 seconds, bootstrap likelihood -7524.505760, best rearrangement setting 5
+Bootstrap[23]: Time 1.671634 seconds, bootstrap likelihood -6888.317798, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[24]: Time 1.797220 seconds, bootstrap likelihood -7223.567856, best rearrangement setting 14
+Bootstrap[25]: Time 1.443573 seconds, bootstrap likelihood -6910.601075, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[26]: Time 1.453000 seconds, bootstrap likelihood -6531.769138, best rearrangement setting 11
+Bootstrap[27]: Time 1.653576 seconds, bootstrap likelihood -7042.422909, best rearrangement setting 11
+Bootstrap[28]: Time 1.538432 seconds, bootstrap likelihood -7123.064012, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[29]: Time 1.395757 seconds, bootstrap likelihood -6665.788941, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[30]: Time 1.664577 seconds, bootstrap likelihood -6997.182977, best rearrangement setting 6
+Bootstrap[31]: Time 1.389953 seconds, bootstrap likelihood -6640.567543, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[32]: Time 1.330383 seconds, bootstrap likelihood -6196.437211, best rearrangement setting 13
+Bootstrap[33]: Time 1.426901 seconds, bootstrap likelihood -7414.638564, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[34]: Time 1.603993 seconds, bootstrap likelihood -6320.150879, best rearrangement setting 8
+Bootstrap[35]: Time 1.459052 seconds, bootstrap likelihood -6657.793940, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[36]: Time 1.326506 seconds, bootstrap likelihood -6932.716788, best rearrangement setting 5
+Bootstrap[37]: Time 1.407134 seconds, bootstrap likelihood -6204.276165, best rearrangement setting 8
+Bootstrap[38]: Time 1.622147 seconds, bootstrap likelihood -6611.711623, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[39]: Time 1.444198 seconds, bootstrap likelihood -6573.048960, best rearrangement setting 13
+Bootstrap[40]: Time 1.554037 seconds, bootstrap likelihood -6459.030260, best rearrangement setting 14
+Bootstrap[41]: Time 1.408064 seconds, bootstrap likelihood -6751.369433, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[42]: Time 1.390036 seconds, bootstrap likelihood -6993.152469, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[43]: Time 1.473756 seconds, bootstrap likelihood -6991.173744, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[44]: Time 1.899857 seconds, bootstrap likelihood -7054.860265, best rearrangement setting 7
+Bootstrap[45]: Time 1.412281 seconds, bootstrap likelihood -7004.380308, best rearrangement setting 14
+Bootstrap[46]: Time 1.569929 seconds, bootstrap likelihood -6911.501569, best rearrangement setting 14
+Bootstrap[47]: Time 1.452011 seconds, bootstrap likelihood -6632.891300, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[48]: Time 1.528817 seconds, bootstrap likelihood -6993.284092, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[49]: Time 1.796457 seconds, bootstrap likelihood -6405.537616, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[50]: Time 1.435749 seconds, bootstrap likelihood -7053.463331, best rearrangement setting 8
+Bootstrap[51]: Time 1.264720 seconds, bootstrap likelihood -7384.363485, best rearrangement setting 5
+Bootstrap[52]: Time 1.393807 seconds, bootstrap likelihood -6994.338439, best rearrangement setting 7
+Bootstrap[53]: Time 1.440838 seconds, bootstrap likelihood -6641.507124, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[54]: Time 1.470458 seconds, bootstrap likelihood -6944.064320, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[55]: Time 1.463042 seconds, bootstrap likelihood -7605.729001, best rearrangement setting 8
+Bootstrap[56]: Time 1.319907 seconds, bootstrap likelihood -6975.434823, best rearrangement setting 5
+Bootstrap[57]: Time 1.458448 seconds, bootstrap likelihood -6694.923351, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[58]: Time 1.634967 seconds, bootstrap likelihood -6722.918673, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[59]: Time 1.316386 seconds, bootstrap likelihood -6635.775011, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[60]: Time 1.835879 seconds, bootstrap likelihood -6718.011883, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[61]: Time 1.507201 seconds, bootstrap likelihood -6634.193064, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[62]: Time 1.369438 seconds, bootstrap likelihood -6890.542322, best rearrangement setting 10
+Bootstrap[63]: Time 1.621686 seconds, bootstrap likelihood -7050.917836, best rearrangement setting 12
+Bootstrap[64]: Time 1.391505 seconds, bootstrap likelihood -6539.793336, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[65]: Time 1.819064 seconds, bootstrap likelihood -6688.034976, best rearrangement setting 8
+Bootstrap[66]: Time 1.562121 seconds, bootstrap likelihood -7127.747507, best rearrangement setting 13
+Bootstrap[67]: Time 1.508092 seconds, bootstrap likelihood -6661.019957, best rearrangement setting 15
+Bootstrap[68]: Time 1.259217 seconds, bootstrap likelihood -6220.319736, best rearrangement setting 10
+Bootstrap[69]: Time 1.346946 seconds, bootstrap likelihood -7232.139040, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[70]: Time 1.475419 seconds, bootstrap likelihood -7349.274654, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[71]: Time 1.759490 seconds, bootstrap likelihood -6529.715764, best rearrangement setting 11
+Bootstrap[72]: Time 2.006180 seconds, bootstrap likelihood -6926.653218, best rearrangement setting 13
+Bootstrap[73]: Time 1.645850 seconds, bootstrap likelihood -6837.213606, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[74]: Time 1.371227 seconds, bootstrap likelihood -6822.608098, best rearrangement setting 6
+Bootstrap[75]: Time 1.643363 seconds, bootstrap likelihood -7035.975393, best rearrangement setting 11
+Bootstrap[76]: Time 1.435029 seconds, bootstrap likelihood -7090.751380, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[77]: Time 1.559331 seconds, bootstrap likelihood -6689.551527, best rearrangement setting 8
+Bootstrap[78]: Time 1.571410 seconds, bootstrap likelihood -7154.872295, best rearrangement setting 13
+Bootstrap[79]: Time 1.559327 seconds, bootstrap likelihood -7403.716321, best rearrangement setting 13
+Bootstrap[80]: Time 1.663196 seconds, bootstrap likelihood -6209.730296, best rearrangement setting 9
+Bootstrap[81]: Time 2.002979 seconds, bootstrap likelihood -6956.634841, best rearrangement setting 10
+Bootstrap[82]: Time 1.329278 seconds, bootstrap likelihood -7099.776717, best rearrangement setting 7
+Bootstrap[83]: Time 1.810745 seconds, bootstrap likelihood -6831.826492, best rearrangement setting 6
+Bootstrap[84]: Time 1.546186 seconds, bootstrap likelihood -7097.725444, best rearrangement setting 15
+Bootstrap[85]: Time 1.358856 seconds, bootstrap likelihood -6972.559627, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[86]: Time 1.601645 seconds, bootstrap likelihood -7299.828563, best rearrangement setting 9
+Bootstrap[87]: Time 1.395692 seconds, bootstrap likelihood -6899.503307, best rearrangement setting 5
+Bootstrap[88]: Time 1.468283 seconds, bootstrap likelihood -7102.756996, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[89]: Time 1.406140 seconds, bootstrap likelihood -7091.637025, best rearrangement setting 6
+Bootstrap[90]: Time 1.631773 seconds, bootstrap likelihood -7115.329293, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[91]: Time 1.290021 seconds, bootstrap likelihood -6672.967534, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[92]: Time 1.495812 seconds, bootstrap likelihood -6787.768479, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[93]: Time 1.505936 seconds, bootstrap likelihood -7255.364272, best rearrangement setting 11
+Bootstrap[94]: Time 1.422856 seconds, bootstrap likelihood -6588.603131, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[95]: Time 1.540694 seconds, bootstrap likelihood -6443.762577, best rearrangement setting 15
+Bootstrap[96]: Time 1.465609 seconds, bootstrap likelihood -7381.057739, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[97]: Time 1.624704 seconds, bootstrap likelihood -6910.049981, best rearrangement setting 14
+Bootstrap[98]: Time 1.422962 seconds, bootstrap likelihood -7021.467266, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Alluaudia_procera_53"
+from the list to root the tree!
+Bootstrap[99]: Time 1.709210 seconds, bootstrap likelihood -6708.736310, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 155.890009 seconds
+Average Time per Rapid Bootstrap 1.558900 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 136.603898 seconds
+
+Slow ML Search 0 Likelihood: -7565.875448
+Slow ML Search 1 Likelihood: -7565.953637
+Slow ML Search 2 Likelihood: -7565.577725
+Slow ML Search 3 Likelihood: -7567.384767
+Slow ML Search 4 Likelihood: -7565.057554
+Slow ML Search 5 Likelihood: -7567.653494
+Slow ML Search 6 Likelihood: -7567.217077
+Slow ML Search 7 Likelihood: -7564.183325
+Slow ML Search 8 Likelihood: -7568.313412
+Slow ML Search 9 Likelihood: -7568.850393
+Slow ML optimization finished
+
+Slow ML search Time: 97.692869 seconds
+Thorough ML search Time: 15.747890 seconds
+
+Final ML Optimization Likelihood: -7563.271199
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.393399
+Tree-Length: 2.626714
+rate A <-> C: 1.177470
+rate A <-> G: 2.971178
+rate A <-> T: 0.939136
+rate C <-> G: 1.298718
+rate C <-> T: 5.418060
+rate G <-> T: 1.000000
+
+freq pi(A): 0.287296
+freq pi(C): 0.222195
+freq pi(G): 0.225661
+freq pi(T): 0.264847
+
+
+ML search took 250.049465 secs or 0.069458 hours
+
+Combined Bootstrap and ML search took 405.939571 secs or 0.112761 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadpmdh2_10
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadpmdh2_10
+
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_nadpmdh2_10
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_nadpmdh2_10
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadpmdh2_10
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_nadpmdh2_10
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_nadpmdh2_10
+
+Overall execution time for full ML analysis: 405.955287 secs or 0.112765 hours or 0.004699 days
+

@@ -1,0 +1,449 @@
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 1148 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 37.68%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1148
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nGroup_441_1.phy -n Ln1t6pgt1_nGroup_441_1 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Boerhavia_coccinea_tr,Mesembryanthemum_crystallinum_tr -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 2.495933
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[0]: Time 6.560631 seconds, bootstrap likelihood -24911.039731, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[1]: Time 3.561659 seconds, bootstrap likelihood -26061.849984, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[2]: Time 3.257735 seconds, bootstrap likelihood -24790.723470, best rearrangement setting 15
+Bootstrap[3]: Time 3.450661 seconds, bootstrap likelihood -24647.020990, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[4]: Time 3.913057 seconds, bootstrap likelihood -25039.327301, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[5]: Time 3.702047 seconds, bootstrap likelihood -25802.604720, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[6]: Time 3.625704 seconds, bootstrap likelihood -24761.472776, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[7]: Time 3.586984 seconds, bootstrap likelihood -24791.897540, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[8]: Time 3.841527 seconds, bootstrap likelihood -24428.412204, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[9]: Time 3.650737 seconds, bootstrap likelihood -25361.349433, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[10]: Time 3.405020 seconds, bootstrap likelihood -25097.853505, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[11]: Time 3.363123 seconds, bootstrap likelihood -23954.826402, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[12]: Time 3.428042 seconds, bootstrap likelihood -24278.896385, best rearrangement setting 9
+Bootstrap[13]: Time 3.685077 seconds, bootstrap likelihood -24256.258118, best rearrangement setting 10
+Bootstrap[14]: Time 4.038723 seconds, bootstrap likelihood -24882.911357, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[15]: Time 3.744991 seconds, bootstrap likelihood -25796.443348, best rearrangement setting 6
+Bootstrap[16]: Time 3.702945 seconds, bootstrap likelihood -25427.290540, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[17]: Time 3.737167 seconds, bootstrap likelihood -24396.284064, best rearrangement setting 13
+Bootstrap[18]: Time 3.965088 seconds, bootstrap likelihood -25627.868247, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[19]: Time 3.462983 seconds, bootstrap likelihood -24863.231613, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[20]: Time 3.820941 seconds, bootstrap likelihood -23993.587337, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[21]: Time 3.569464 seconds, bootstrap likelihood -25568.621175, best rearrangement setting 10
+Bootstrap[22]: Time 3.782304 seconds, bootstrap likelihood -24961.451252, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[23]: Time 3.686015 seconds, bootstrap likelihood -25120.383798, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[24]: Time 3.707850 seconds, bootstrap likelihood -26563.235466, best rearrangement setting 14
+Bootstrap[25]: Time 3.616183 seconds, bootstrap likelihood -24865.717938, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[26]: Time 3.658238 seconds, bootstrap likelihood -25018.278510, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[27]: Time 4.050665 seconds, bootstrap likelihood -25282.760004, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[28]: Time 3.256576 seconds, bootstrap likelihood -25128.718747, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[29]: Time 3.672611 seconds, bootstrap likelihood -25209.850317, best rearrangement setting 13
+Bootstrap[30]: Time 3.727826 seconds, bootstrap likelihood -25656.502845, best rearrangement setting 6
+Bootstrap[31]: Time 4.060740 seconds, bootstrap likelihood -25697.785622, best rearrangement setting 9
+Bootstrap[32]: Time 4.069109 seconds, bootstrap likelihood -24998.262341, best rearrangement setting 13
+Bootstrap[33]: Time 3.991130 seconds, bootstrap likelihood -24275.960810, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[34]: Time 3.684568 seconds, bootstrap likelihood -24527.149365, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[35]: Time 3.999602 seconds, bootstrap likelihood -24809.573025, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[36]: Time 3.641578 seconds, bootstrap likelihood -25966.088691, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[37]: Time 3.592266 seconds, bootstrap likelihood -25259.791295, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[38]: Time 3.673792 seconds, bootstrap likelihood -24874.359828, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[39]: Time 3.810869 seconds, bootstrap likelihood -24557.440274, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[40]: Time 3.489029 seconds, bootstrap likelihood -24373.187678, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[41]: Time 3.607732 seconds, bootstrap likelihood -24916.461864, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[42]: Time 4.251619 seconds, bootstrap likelihood -24206.759248, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[43]: Time 3.528895 seconds, bootstrap likelihood -25199.216164, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[44]: Time 3.270511 seconds, bootstrap likelihood -25118.304540, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[45]: Time 3.251904 seconds, bootstrap likelihood -25524.961580, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[46]: Time 3.714287 seconds, bootstrap likelihood -23925.614975, best rearrangement setting 14
+Bootstrap[47]: Time 3.474469 seconds, bootstrap likelihood -24072.254291, best rearrangement setting 11
+Bootstrap[48]: Time 3.618123 seconds, bootstrap likelihood -24900.876986, best rearrangement setting 11
+Bootstrap[49]: Time 3.736708 seconds, bootstrap likelihood -24750.638913, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[50]: Time 3.777474 seconds, bootstrap likelihood -24355.996559, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[51]: Time 3.706593 seconds, bootstrap likelihood -24275.979560, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[52]: Time 4.161750 seconds, bootstrap likelihood -25116.008775, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[53]: Time 3.906272 seconds, bootstrap likelihood -25594.340074, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[54]: Time 3.581640 seconds, bootstrap likelihood -24920.943193, best rearrangement setting 7
+Bootstrap[55]: Time 3.856519 seconds, bootstrap likelihood -25387.277034, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[56]: Time 3.466660 seconds, bootstrap likelihood -24722.843779, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[57]: Time 3.551141 seconds, bootstrap likelihood -24448.154167, best rearrangement setting 12
+Bootstrap[58]: Time 3.462122 seconds, bootstrap likelihood -24824.465634, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[59]: Time 3.543517 seconds, bootstrap likelihood -24746.823954, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[60]: Time 3.987292 seconds, bootstrap likelihood -24376.998436, best rearrangement setting 9
+Bootstrap[61]: Time 3.719853 seconds, bootstrap likelihood -24810.023144, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[62]: Time 3.634020 seconds, bootstrap likelihood -24843.368153, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[63]: Time 3.780570 seconds, bootstrap likelihood -25511.619510, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[64]: Time 3.556451 seconds, bootstrap likelihood -25452.982042, best rearrangement setting 11
+Bootstrap[65]: Time 3.501263 seconds, bootstrap likelihood -24813.493132, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[66]: Time 3.641425 seconds, bootstrap likelihood -25252.569714, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[67]: Time 3.927697 seconds, bootstrap likelihood -24926.157064, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[68]: Time 3.384343 seconds, bootstrap likelihood -24966.074263, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[69]: Time 3.325059 seconds, bootstrap likelihood -25062.255560, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[70]: Time 3.570280 seconds, bootstrap likelihood -24390.246875, best rearrangement setting 11
+Bootstrap[71]: Time 3.565515 seconds, bootstrap likelihood -24832.174875, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[72]: Time 3.876470 seconds, bootstrap likelihood -25197.721025, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[73]: Time 3.469025 seconds, bootstrap likelihood -24448.027858, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[74]: Time 4.082847 seconds, bootstrap likelihood -25347.178756, best rearrangement setting 6
+Bootstrap[75]: Time 3.644248 seconds, bootstrap likelihood -24346.115329, best rearrangement setting 11
+Bootstrap[76]: Time 4.060947 seconds, bootstrap likelihood -24311.425373, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[77]: Time 3.729073 seconds, bootstrap likelihood -24474.008561, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[78]: Time 3.393454 seconds, bootstrap likelihood -25004.162765, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[79]: Time 3.924277 seconds, bootstrap likelihood -24791.562217, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[80]: Time 3.245961 seconds, bootstrap likelihood -24378.056157, best rearrangement setting 9
+Bootstrap[81]: Time 3.542053 seconds, bootstrap likelihood -25357.390562, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[82]: Time 3.482616 seconds, bootstrap likelihood -25420.694285, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[83]: Time 3.439787 seconds, bootstrap likelihood -23857.531029, best rearrangement setting 6
+Bootstrap[84]: Time 3.761847 seconds, bootstrap likelihood -23918.530607, best rearrangement setting 15
+Bootstrap[85]: Time 3.451527 seconds, bootstrap likelihood -24234.798836, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[86]: Time 3.806118 seconds, bootstrap likelihood -24775.491285, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[87]: Time 3.375936 seconds, bootstrap likelihood -24901.920125, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[88]: Time 3.629420 seconds, bootstrap likelihood -25917.053528, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[89]: Time 3.795482 seconds, bootstrap likelihood -24291.540508, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[90]: Time 3.622862 seconds, bootstrap likelihood -25008.537976, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[91]: Time 3.527116 seconds, bootstrap likelihood -25840.183652, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[92]: Time 3.728529 seconds, bootstrap likelihood -25129.873391, best rearrangement setting 7
+Bootstrap[93]: Time 3.890559 seconds, bootstrap likelihood -24561.756650, best rearrangement setting 11
+Bootstrap[94]: Time 3.657720 seconds, bootstrap likelihood -24028.772339, best rearrangement setting 15
+Bootstrap[95]: Time 3.604112 seconds, bootstrap likelihood -25212.418040, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[96]: Time 3.709413 seconds, bootstrap likelihood -24037.038984, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[97]: Time 3.409018 seconds, bootstrap likelihood -24450.794796, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[98]: Time 3.781055 seconds, bootstrap likelihood -24736.177031, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Bootstrap[99]: Time 3.579698 seconds, bootstrap likelihood -24419.640469, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 369.598502 seconds
+Average Time per Rapid Bootstrap 3.695985 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 343.010210 seconds
+
+Slow ML Search 0 Likelihood: -27003.346497
+Slow ML Search 1 Likelihood: -27003.346462
+Slow ML Search 2 Likelihood: -27003.346462
+Slow ML Search 3 Likelihood: -27003.346875
+Slow ML Search 4 Likelihood: -27003.210945
+Slow ML Search 5 Likelihood: -27003.210945
+Slow ML Search 6 Likelihood: -27003.346544
+Slow ML Search 7 Likelihood: -27004.828571
+Slow ML Search 8 Likelihood: -27003.747874
+Slow ML Search 9 Likelihood: -27005.215931
+Slow ML optimization finished
+
+Slow ML search Time: 235.977557 seconds
+Thorough ML search Time: 47.872951 seconds
+
+Final ML Optimization Likelihood: -27002.828924
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.534680
+Tree-Length: 8.248096
+rate A <-> C: 1.468379
+rate A <-> G: 4.182423
+rate A <-> T: 1.482945
+rate C <-> G: 1.095271
+rate C <-> T: 3.807976
+rate G <-> T: 1.000000
+
+freq pi(A): 0.245734
+freq pi(C): 0.216914
+freq pi(G): 0.244975
+freq pi(T): 0.292377
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+
+ML search took 626.869339 secs or 0.174130 hours
+
+Combined Bootstrap and ML search took 996.467948 secs or 0.276797 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nGroup_441_1
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nGroup_441_1
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "Boerhavia_coccinea_tr"
+from the list to root the tree!
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_nGroup_441_1
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_nGroup_441_1
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nGroup_441_1
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_nGroup_441_1
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_nGroup_441_1
+
+Overall execution time for full ML analysis: 996.480003 secs or 0.276800 hours or 0.011533 days
+

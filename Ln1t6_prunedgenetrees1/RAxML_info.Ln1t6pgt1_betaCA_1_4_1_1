@@ -1,0 +1,522 @@
+
+
+IMPORTANT WARNING: Sequences Calandrinia_pentavalvis_178 and Calandrinia_arenicola_90 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Cistanthe_paniculaeta_223 and Cistanthe_sp_219 are exactly identical
+
+IMPORTANT WARNING
+Found 2 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_betaCA_1_4_1_1.phy.reduced
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 358 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 50.66%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 358
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_betaCA_1_4_1_1.phy -n Ln1t6pgt1_betaCA_1_4_1_1 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Mollugo_verticillata_56,Mollugo_pentafilis_148 -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 0.559480
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[0]: Time 2.691428 seconds, bootstrap likelihood -5081.457956, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[1]: Time 1.954443 seconds, bootstrap likelihood -5351.966050, best rearrangement setting 15
+Bootstrap[2]: Time 1.730455 seconds, bootstrap likelihood -5212.580647, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[3]: Time 1.968080 seconds, bootstrap likelihood -5498.978829, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[4]: Time 1.927345 seconds, bootstrap likelihood -5305.388220, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[5]: Time 1.668813 seconds, bootstrap likelihood -5228.431044, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[6]: Time 1.854579 seconds, bootstrap likelihood -5407.172638, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[7]: Time 2.032826 seconds, bootstrap likelihood -5076.609544, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[8]: Time 1.558236 seconds, bootstrap likelihood -5667.860955, best rearrangement setting 13
+Bootstrap[9]: Time 1.761059 seconds, bootstrap likelihood -5518.736761, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[10]: Time 1.919192 seconds, bootstrap likelihood -5141.581882, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[11]: Time 1.880823 seconds, bootstrap likelihood -5560.813162, best rearrangement setting 5
+Bootstrap[12]: Time 1.757166 seconds, bootstrap likelihood -5347.392245, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[13]: Time 1.601419 seconds, bootstrap likelihood -5220.845939, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[14]: Time 1.612534 seconds, bootstrap likelihood -5002.659491, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[15]: Time 1.667330 seconds, bootstrap likelihood -5731.582677, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[16]: Time 1.821936 seconds, bootstrap likelihood -5603.189675, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[17]: Time 1.928080 seconds, bootstrap likelihood -5264.985659, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[18]: Time 1.786731 seconds, bootstrap likelihood -5498.429397, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[19]: Time 1.768263 seconds, bootstrap likelihood -5459.647299, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[20]: Time 1.952811 seconds, bootstrap likelihood -5444.189114, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[21]: Time 1.703979 seconds, bootstrap likelihood -5555.281190, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[22]: Time 1.512719 seconds, bootstrap likelihood -5227.648524, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[23]: Time 1.673382 seconds, bootstrap likelihood -5522.142072, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[24]: Time 1.601926 seconds, bootstrap likelihood -5236.383842, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[25]: Time 1.741944 seconds, bootstrap likelihood -5154.042087, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[26]: Time 1.950523 seconds, bootstrap likelihood -5325.639170, best rearrangement setting 11
+Bootstrap[27]: Time 1.871163 seconds, bootstrap likelihood -5530.729596, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[28]: Time 1.952196 seconds, bootstrap likelihood -5376.930485, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[29]: Time 1.893018 seconds, bootstrap likelihood -5187.263794, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[30]: Time 1.957164 seconds, bootstrap likelihood -5502.599964, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[31]: Time 1.803567 seconds, bootstrap likelihood -5890.077824, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[32]: Time 1.792190 seconds, bootstrap likelihood -5330.578107, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[33]: Time 1.833864 seconds, bootstrap likelihood -5179.506765, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[34]: Time 1.674493 seconds, bootstrap likelihood -5690.951444, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[35]: Time 1.742101 seconds, bootstrap likelihood -5672.549284, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[36]: Time 1.568558 seconds, bootstrap likelihood -5380.144873, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[37]: Time 1.802469 seconds, bootstrap likelihood -5243.153071, best rearrangement setting 8
+Bootstrap[38]: Time 1.910185 seconds, bootstrap likelihood -5062.818098, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[39]: Time 1.874016 seconds, bootstrap likelihood -5144.959404, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[40]: Time 1.794979 seconds, bootstrap likelihood -5025.636224, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[41]: Time 1.848680 seconds, bootstrap likelihood -5374.182363, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[42]: Time 1.710063 seconds, bootstrap likelihood -5446.552520, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[43]: Time 1.662507 seconds, bootstrap likelihood -5536.631720, best rearrangement setting 13
+Bootstrap[44]: Time 1.835884 seconds, bootstrap likelihood -5073.303771, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[45]: Time 1.856014 seconds, bootstrap likelihood -5560.001573, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[46]: Time 1.843228 seconds, bootstrap likelihood -5672.974673, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[47]: Time 1.819057 seconds, bootstrap likelihood -5238.419275, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[48]: Time 1.811630 seconds, bootstrap likelihood -5562.284172, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[49]: Time 1.923366 seconds, bootstrap likelihood -5497.114475, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[50]: Time 1.886572 seconds, bootstrap likelihood -5650.100979, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[51]: Time 1.750208 seconds, bootstrap likelihood -5185.378457, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[52]: Time 1.573036 seconds, bootstrap likelihood -5355.119342, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[53]: Time 1.842032 seconds, bootstrap likelihood -5896.621948, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[54]: Time 1.782397 seconds, bootstrap likelihood -4909.680528, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[55]: Time 1.721776 seconds, bootstrap likelihood -5642.539426, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[56]: Time 1.666402 seconds, bootstrap likelihood -5584.042581, best rearrangement setting 5
+Bootstrap[57]: Time 1.852506 seconds, bootstrap likelihood -5310.318393, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[58]: Time 1.669870 seconds, bootstrap likelihood -5873.996665, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[59]: Time 1.745796 seconds, bootstrap likelihood -5487.031104, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[60]: Time 1.610426 seconds, bootstrap likelihood -4999.257403, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[61]: Time 1.808936 seconds, bootstrap likelihood -5719.822743, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[62]: Time 1.965515 seconds, bootstrap likelihood -5694.810202, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[63]: Time 1.697632 seconds, bootstrap likelihood -5043.305215, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[64]: Time 1.848757 seconds, bootstrap likelihood -5423.005189, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[65]: Time 1.823975 seconds, bootstrap likelihood -5801.496417, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[66]: Time 1.819323 seconds, bootstrap likelihood -5412.261735, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[67]: Time 1.803971 seconds, bootstrap likelihood -5103.361822, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[68]: Time 1.867783 seconds, bootstrap likelihood -5692.067685, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[69]: Time 1.886340 seconds, bootstrap likelihood -5825.115691, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[70]: Time 2.047707 seconds, bootstrap likelihood -5536.334344, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[71]: Time 1.992572 seconds, bootstrap likelihood -5595.125940, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[72]: Time 1.656185 seconds, bootstrap likelihood -5388.894650, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[73]: Time 1.560642 seconds, bootstrap likelihood -5091.448980, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[74]: Time 1.760088 seconds, bootstrap likelihood -4882.087650, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[75]: Time 1.675285 seconds, bootstrap likelihood -5755.137729, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[76]: Time 1.734791 seconds, bootstrap likelihood -5649.055193, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[77]: Time 1.649746 seconds, bootstrap likelihood -5689.152766, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[78]: Time 2.033539 seconds, bootstrap likelihood -5273.252888, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[79]: Time 1.926046 seconds, bootstrap likelihood -5279.527699, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[80]: Time 1.877193 seconds, bootstrap likelihood -5022.004699, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[81]: Time 1.741264 seconds, bootstrap likelihood -5508.833419, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[82]: Time 1.739234 seconds, bootstrap likelihood -5542.772786, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[83]: Time 1.687710 seconds, bootstrap likelihood -5150.307025, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[84]: Time 2.088709 seconds, bootstrap likelihood -5470.776139, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[85]: Time 1.581949 seconds, bootstrap likelihood -5116.277435, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[86]: Time 1.897974 seconds, bootstrap likelihood -5051.450072, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[87]: Time 1.747137 seconds, bootstrap likelihood -5295.539089, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[88]: Time 1.829093 seconds, bootstrap likelihood -5499.883008, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[89]: Time 1.886199 seconds, bootstrap likelihood -5544.309801, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[90]: Time 1.835218 seconds, bootstrap likelihood -5554.559036, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[91]: Time 1.882556 seconds, bootstrap likelihood -5435.383207, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[92]: Time 1.585116 seconds, bootstrap likelihood -5797.281941, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[93]: Time 1.788182 seconds, bootstrap likelihood -5326.596669, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[94]: Time 1.842799 seconds, bootstrap likelihood -5333.283618, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[95]: Time 1.844879 seconds, bootstrap likelihood -5460.506765, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[96]: Time 1.581711 seconds, bootstrap likelihood -5203.404423, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[97]: Time 1.713416 seconds, bootstrap likelihood -5136.674688, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[98]: Time 1.827256 seconds, bootstrap likelihood -5407.678809, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Bootstrap[99]: Time 1.778272 seconds, bootstrap likelihood -5389.393024, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 180.251637 seconds
+Average Time per Rapid Bootstrap 1.802516 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 141.296379 seconds
+
+Slow ML Search 0 Likelihood: -6015.269735
+Slow ML Search 1 Likelihood: -6018.401947
+Slow ML Search 2 Likelihood: -6013.449214
+Slow ML Search 3 Likelihood: -6019.571131
+Slow ML Search 4 Likelihood: -6018.781711
+Slow ML Search 5 Likelihood: -6019.953478
+Slow ML Search 6 Likelihood: -6021.714392
+Slow ML Search 7 Likelihood: -6016.488595
+Slow ML Search 8 Likelihood: -6020.429098
+Slow ML Search 9 Likelihood: -6023.589743
+Slow ML optimization finished
+
+Slow ML search Time: 113.972052 seconds
+Thorough ML search Time: 13.358727 seconds
+
+Final ML Optimization Likelihood: -6012.743249
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 1.092240
+Tree-Length: 7.414846
+rate A <-> C: 1.491102
+rate A <-> G: 2.586811
+rate A <-> T: 1.132864
+rate C <-> G: 1.118387
+rate C <-> T: 3.977557
+rate G <-> T: 1.000000
+
+freq pi(A): 0.267280
+freq pi(C): 0.210036
+freq pi(G): 0.247164
+freq pi(T): 0.275521
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+
+ML search took 268.635725 secs or 0.074621 hours
+
+Combined Bootstrap and ML search took 448.887471 secs or 0.124691 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_betaCA_1_4_1_1
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_betaCA_1_4_1_1
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "Mollugo_verticillata_56"
+from the list to root the tree!
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_betaCA_1_4_1_1
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_betaCA_1_4_1_1
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_betaCA_1_4_1_1
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_betaCA_1_4_1_1
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_betaCA_1_4_1_1
+
+Overall execution time for full ML analysis: 448.903232 secs or 0.124695 hours or 0.005196 days
+

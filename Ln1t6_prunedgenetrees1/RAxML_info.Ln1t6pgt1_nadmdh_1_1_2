@@ -1,0 +1,252 @@
+
+
+IMPORTANT WARNING: Sequences Calandrinia_affious_145 and Calandrinia_colchagensis_146 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Calandrinia_ciliata_215 and Calandrinia_ciliata_216 are exactly identical
+
+
+IMPORTANT WARNING: Sequences Calandrinia_primuliflora_160 and Calandrinia_primuliflora_110 are exactly identical
+
+IMPORTANT WARNING
+Found 3 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nadmdh_1_1_2.phy.reduced
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 585 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 48.59%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 585
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nadmdh_1_1_2.phy -n Ln1t6pgt1_nadmdh_1_1_2 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Amaranthus_hypochondriacus_tr,Beta_vulgaris_cds -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 5.029916
+Bootstrap[0]: Time 9.704906 seconds, bootstrap likelihood -9478.934446, best rearrangement setting 10
+Bootstrap[1]: Time 4.422381 seconds, bootstrap likelihood -9276.549570, best rearrangement setting 15
+Bootstrap[2]: Time 4.741123 seconds, bootstrap likelihood -9059.325503, best rearrangement setting 15
+Bootstrap[3]: Time 4.370416 seconds, bootstrap likelihood -9831.333881, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[4]: Time 4.024695 seconds, bootstrap likelihood -9499.871589, best rearrangement setting 9
+Bootstrap[5]: Time 5.146548 seconds, bootstrap likelihood -10033.716031, best rearrangement setting 12
+Bootstrap[6]: Time 4.273911 seconds, bootstrap likelihood -9736.497831, best rearrangement setting 14
+Bootstrap[7]: Time 4.875155 seconds, bootstrap likelihood -9220.054427, best rearrangement setting 10
+Bootstrap[8]: Time 5.238886 seconds, bootstrap likelihood -9709.009421, best rearrangement setting 13
+Bootstrap[9]: Time 4.451901 seconds, bootstrap likelihood -9086.426791, best rearrangement setting 14
+Bootstrap[10]: Time 4.257030 seconds, bootstrap likelihood -9274.474041, best rearrangement setting 14
+Bootstrap[11]: Time 4.058929 seconds, bootstrap likelihood -9102.528838, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[12]: Time 4.396688 seconds, bootstrap likelihood -9696.453097, best rearrangement setting 9
+Bootstrap[13]: Time 4.387082 seconds, bootstrap likelihood -9672.328511, best rearrangement setting 10
+Bootstrap[14]: Time 4.392339 seconds, bootstrap likelihood -9927.164339, best rearrangement setting 13
+Bootstrap[15]: Time 4.831380 seconds, bootstrap likelihood -9790.023341, best rearrangement setting 6
+Bootstrap[16]: Time 4.193594 seconds, bootstrap likelihood -9540.411460, best rearrangement setting 15
+Bootstrap[17]: Time 4.305774 seconds, bootstrap likelihood -9292.254972, best rearrangement setting 13
+Bootstrap[18]: Time 4.579774 seconds, bootstrap likelihood -9532.105995, best rearrangement setting 9
+Bootstrap[19]: Time 4.028107 seconds, bootstrap likelihood -9204.021660, best rearrangement setting 8
+Bootstrap[20]: Time 4.396898 seconds, bootstrap likelihood -8840.838422, best rearrangement setting 13
+Bootstrap[21]: Time 4.937948 seconds, bootstrap likelihood -9961.993300, best rearrangement setting 10
+Bootstrap[22]: Time 4.618930 seconds, bootstrap likelihood -9852.526432, best rearrangement setting 5
+Bootstrap[23]: Time 4.124766 seconds, bootstrap likelihood -9395.948578, best rearrangement setting 10
+Bootstrap[24]: Time 4.747839 seconds, bootstrap likelihood -8983.530743, best rearrangement setting 14
+Bootstrap[25]: Time 4.870590 seconds, bootstrap likelihood -9353.014937, best rearrangement setting 7
+Bootstrap[26]: Time 4.773566 seconds, bootstrap likelihood -9674.783670, best rearrangement setting 11
+Bootstrap[27]: Time 4.977996 seconds, bootstrap likelihood -8867.154231, best rearrangement setting 11
+Bootstrap[28]: Time 4.321135 seconds, bootstrap likelihood -9588.247115, best rearrangement setting 8
+Bootstrap[29]: Time 4.004302 seconds, bootstrap likelihood -9553.142905, best rearrangement setting 13
+Bootstrap[30]: Time 4.615090 seconds, bootstrap likelihood -10068.922866, best rearrangement setting 6
+Bootstrap[31]: Time 4.691549 seconds, bootstrap likelihood -9412.606701, best rearrangement setting 9
+Bootstrap[32]: Time 4.494992 seconds, bootstrap likelihood -9433.974370, best rearrangement setting 13
+Bootstrap[33]: Time 4.088916 seconds, bootstrap likelihood -9981.481304, best rearrangement setting 8
+Bootstrap[34]: Time 4.406676 seconds, bootstrap likelihood -9492.981643, best rearrangement setting 8
+Bootstrap[35]: Time 4.207736 seconds, bootstrap likelihood -9299.159453, best rearrangement setting 12
+Bootstrap[36]: Time 4.003807 seconds, bootstrap likelihood -9632.827569, best rearrangement setting 5
+Bootstrap[37]: Time 4.615604 seconds, bootstrap likelihood -9380.516411, best rearrangement setting 8
+Bootstrap[38]: Time 4.982314 seconds, bootstrap likelihood -10306.434681, best rearrangement setting 12
+Bootstrap[39]: Time 4.804848 seconds, bootstrap likelihood -9080.603989, best rearrangement setting 13
+Bootstrap[40]: Time 4.875592 seconds, bootstrap likelihood -9422.358800, best rearrangement setting 14
+Bootstrap[41]: Time 4.569971 seconds, bootstrap likelihood -8884.609439, best rearrangement setting 13
+Bootstrap[42]: Time 4.377331 seconds, bootstrap likelihood -10157.518964, best rearrangement setting 10
+Bootstrap[43]: Time 4.352122 seconds, bootstrap likelihood -8958.573745, best rearrangement setting 13
+Bootstrap[44]: Time 4.342952 seconds, bootstrap likelihood -9716.680508, best rearrangement setting 7
+Bootstrap[45]: Time 4.572450 seconds, bootstrap likelihood -9415.556275, best rearrangement setting 14
+Bootstrap[46]: Time 4.901373 seconds, bootstrap likelihood -9544.257920, best rearrangement setting 14
+Bootstrap[47]: Time 5.024754 seconds, bootstrap likelihood -9555.728580, best rearrangement setting 11
+Bootstrap[48]: Time 4.428592 seconds, bootstrap likelihood -9362.377703, best rearrangement setting 11
+Bootstrap[49]: Time 4.340313 seconds, bootstrap likelihood -9606.996277, best rearrangement setting 15
+Bootstrap[50]: Time 4.298652 seconds, bootstrap likelihood -9687.460523, best rearrangement setting 8
+Bootstrap[51]: Time 4.433051 seconds, bootstrap likelihood -9873.224198, best rearrangement setting 5
+Bootstrap[52]: Time 4.646639 seconds, bootstrap likelihood -9372.100974, best rearrangement setting 7
+Bootstrap[53]: Time 4.776904 seconds, bootstrap likelihood -10247.738583, best rearrangement setting 10
+Bootstrap[54]: Time 4.528407 seconds, bootstrap likelihood -9606.298075, best rearrangement setting 7
+Bootstrap[55]: Time 4.273193 seconds, bootstrap likelihood -8920.925228, best rearrangement setting 8
+Bootstrap[56]: Time 4.521565 seconds, bootstrap likelihood -9783.354606, best rearrangement setting 5
+Bootstrap[57]: Time 4.694447 seconds, bootstrap likelihood -10235.315294, best rearrangement setting 12
+Bootstrap[58]: Time 4.300693 seconds, bootstrap likelihood -9711.729852, best rearrangement setting 15
+Bootstrap[59]: Time 4.338876 seconds, bootstrap likelihood -9265.044259, best rearrangement setting 6
+Bootstrap[60]: Time 5.048384 seconds, bootstrap likelihood -9259.846288, best rearrangement setting 9
+Bootstrap[61]: Time 3.940496 seconds, bootstrap likelihood -10308.068212, best rearrangement setting 9
+Bootstrap[62]: Time 4.904480 seconds, bootstrap likelihood -9111.571879, best rearrangement setting 10
+Bootstrap[63]: Time 4.549536 seconds, bootstrap likelihood -10229.299248, best rearrangement setting 12
+Bootstrap[64]: Time 4.944433 seconds, bootstrap likelihood -9146.755505, best rearrangement setting 11
+Bootstrap[65]: Time 4.186910 seconds, bootstrap likelihood -9420.900576, best rearrangement setting 8
+Bootstrap[66]: Time 4.680455 seconds, bootstrap likelihood -9529.166276, best rearrangement setting 13
+Bootstrap[67]: Time 4.339601 seconds, bootstrap likelihood -9765.022307, best rearrangement setting 15
+Bootstrap[68]: Time 5.481404 seconds, bootstrap likelihood -9216.208301, best rearrangement setting 10
+Bootstrap[69]: Time 4.509209 seconds, bootstrap likelihood -9225.011156, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[70]: Time 4.825149 seconds, bootstrap likelihood -9882.920451, best rearrangement setting 11
+Bootstrap[71]: Time 4.389303 seconds, bootstrap likelihood -10345.914359, best rearrangement setting 11
+Bootstrap[72]: Time 4.443407 seconds, bootstrap likelihood -9661.425982, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[73]: Time 4.332652 seconds, bootstrap likelihood -9337.461450, best rearrangement setting 5
+Bootstrap[74]: Time 4.681194 seconds, bootstrap likelihood -9867.987289, best rearrangement setting 6
+Bootstrap[75]: Time 4.048890 seconds, bootstrap likelihood -9395.523133, best rearrangement setting 11
+Bootstrap[76]: Time 4.053730 seconds, bootstrap likelihood -9547.485446, best rearrangement setting 6
+Bootstrap[77]: Time 4.241856 seconds, bootstrap likelihood -9177.096052, best rearrangement setting 8
+Bootstrap[78]: Time 4.497845 seconds, bootstrap likelihood -9901.961738, best rearrangement setting 13
+Bootstrap[79]: Time 4.270600 seconds, bootstrap likelihood -9305.645427, best rearrangement setting 13
+Bootstrap[80]: Time 4.295619 seconds, bootstrap likelihood -9802.902290, best rearrangement setting 9
+Bootstrap[81]: Time 4.285994 seconds, bootstrap likelihood -10066.331440, best rearrangement setting 10
+Bootstrap[82]: Time 4.567035 seconds, bootstrap likelihood -8830.402998, best rearrangement setting 7
+Bootstrap[83]: Time 4.561454 seconds, bootstrap likelihood -8976.163591, best rearrangement setting 6
+Bootstrap[84]: Time 4.297078 seconds, bootstrap likelihood -9821.572718, best rearrangement setting 15
+Bootstrap[85]: Time 4.568446 seconds, bootstrap likelihood -9680.625744, best rearrangement setting 10
+Bootstrap[86]: Time 4.424027 seconds, bootstrap likelihood -9541.862844, best rearrangement setting 9
+Bootstrap[87]: Time 4.597790 seconds, bootstrap likelihood -9713.188719, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[88]: Time 4.533783 seconds, bootstrap likelihood -9885.841355, best rearrangement setting 12
+Bootstrap[89]: Time 4.294529 seconds, bootstrap likelihood -8912.690678, best rearrangement setting 6
+Bootstrap[90]: Time 4.062606 seconds, bootstrap likelihood -10736.341672, best rearrangement setting 13
+Bootstrap[91]: Time 4.828271 seconds, bootstrap likelihood -9701.255781, best rearrangement setting 8
+Bootstrap[92]: Time 4.550296 seconds, bootstrap likelihood -9515.160029, best rearrangement setting 7
+Bootstrap[93]: Time 4.200920 seconds, bootstrap likelihood -9454.596340, best rearrangement setting 11
+Bootstrap[94]: Time 4.204359 seconds, bootstrap likelihood -9572.874004, best rearrangement setting 15
+Bootstrap[95]: Time 4.055941 seconds, bootstrap likelihood -9885.096162, best rearrangement setting 15
+Bootstrap[96]: Time 3.964079 seconds, bootstrap likelihood -9424.618376, best rearrangement setting 5
+Bootstrap[97]: Time 4.479602 seconds, bootstrap likelihood -9652.585298, best rearrangement setting 14
+Bootstrap[98]: Time 4.422295 seconds, bootstrap likelihood -9297.269966, best rearrangement setting 7
+Bootstrap[99]: Time 4.552141 seconds, bootstrap likelihood -8995.339158, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 454.165961 seconds
+Average Time per Rapid Bootstrap 4.541660 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 485.975042 seconds
+
+Slow ML Search 0 Likelihood: -10317.291574
+Slow ML Search 1 Likelihood: -10317.291622
+Slow ML Search 2 Likelihood: -10317.292372
+Slow ML Search 3 Likelihood: -10319.377386
+Slow ML Search 4 Likelihood: -10319.377098
+Slow ML Search 5 Likelihood: -10318.732052
+Slow ML Search 6 Likelihood: -10319.377798
+Slow ML Search 7 Likelihood: -10318.743265
+Slow ML Search 8 Likelihood: -10317.656737
+Slow ML Search 9 Likelihood: -10317.291898
+Slow ML optimization finished
+
+Slow ML search Time: 221.116758 seconds
+Thorough ML search Time: 47.336698 seconds
+
+Final ML Optimization Likelihood: -10316.510026
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.427317
+Tree-Length: 3.663906
+rate A <-> C: 2.176687
+rate A <-> G: 4.716052
+rate A <-> T: 2.002763
+rate C <-> G: 1.773902
+rate C <-> T: 7.283960
+rate G <-> T: 1.000000
+
+freq pi(A): 0.248034
+freq pi(C): 0.205041
+freq pi(G): 0.267754
+freq pi(T): 0.279171
+
+
+ML search took 754.438041 secs or 0.209566 hours
+
+Combined Bootstrap and ML search took 1208.604437 secs or 0.335723 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadmdh_1_1_2
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadmdh_1_1_2
+
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_nadmdh_1_1_2
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_nadmdh_1_1_2
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadmdh_1_1_2
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_nadmdh_1_1_2
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_nadmdh_1_1_2
+
+Overall execution time for full ML analysis: 1208.628891 secs or 0.335730 hours or 0.013989 days
+

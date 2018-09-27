@@ -1,0 +1,272 @@
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 370 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 48.70%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 370
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_dit1_1_2_1_2.phy -n Ln1t6pgt1_dit1_1_2_1_2 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Phemeranthus_brevifolius_169,Phemeranthus_longipes_6 -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 0.315398
+Bootstrap[0]: Time 0.647900 seconds, bootstrap likelihood -4529.255744, best rearrangement setting 10
+Bootstrap[1]: Time 0.332242 seconds, bootstrap likelihood -4322.023484, best rearrangement setting 15
+Bootstrap[2]: Time 0.261294 seconds, bootstrap likelihood -4462.607580, best rearrangement setting 15
+Bootstrap[3]: Time 0.309940 seconds, bootstrap likelihood -4605.397611, best rearrangement setting 12
+Bootstrap[4]: Time 0.316288 seconds, bootstrap likelihood -4602.359685, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[5]: Time 0.276118 seconds, bootstrap likelihood -4485.432779, best rearrangement setting 12
+Bootstrap[6]: Time 0.267634 seconds, bootstrap likelihood -4432.883415, best rearrangement setting 14
+Bootstrap[7]: Time 0.337116 seconds, bootstrap likelihood -4529.719895, best rearrangement setting 10
+Bootstrap[8]: Time 0.259453 seconds, bootstrap likelihood -4524.042970, best rearrangement setting 13
+Bootstrap[9]: Time 0.281109 seconds, bootstrap likelihood -4465.620958, best rearrangement setting 14
+Bootstrap[10]: Time 0.344085 seconds, bootstrap likelihood -4759.003367, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[11]: Time 0.306833 seconds, bootstrap likelihood -4359.344682, best rearrangement setting 5
+Bootstrap[12]: Time 0.284241 seconds, bootstrap likelihood -4480.827748, best rearrangement setting 9
+Bootstrap[13]: Time 0.287080 seconds, bootstrap likelihood -4394.409918, best rearrangement setting 10
+Bootstrap[14]: Time 0.273917 seconds, bootstrap likelihood -4378.349063, best rearrangement setting 13
+Bootstrap[15]: Time 0.365972 seconds, bootstrap likelihood -4636.774761, best rearrangement setting 6
+Bootstrap[16]: Time 0.356183 seconds, bootstrap likelihood -4350.273148, best rearrangement setting 15
+Bootstrap[17]: Time 0.315655 seconds, bootstrap likelihood -4461.637495, best rearrangement setting 13
+Bootstrap[18]: Time 0.268246 seconds, bootstrap likelihood -4620.744224, best rearrangement setting 9
+Bootstrap[19]: Time 0.305636 seconds, bootstrap likelihood -4654.906432, best rearrangement setting 8
+Bootstrap[20]: Time 0.286524 seconds, bootstrap likelihood -4371.288935, best rearrangement setting 13
+Bootstrap[21]: Time 0.284517 seconds, bootstrap likelihood -4478.664625, best rearrangement setting 10
+Bootstrap[22]: Time 0.276092 seconds, bootstrap likelihood -4494.318874, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[23]: Time 0.308432 seconds, bootstrap likelihood -4563.404333, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[24]: Time 0.362064 seconds, bootstrap likelihood -4461.650233, best rearrangement setting 14
+Bootstrap[25]: Time 0.287588 seconds, bootstrap likelihood -4645.914023, best rearrangement setting 7
+Bootstrap[26]: Time 0.298268 seconds, bootstrap likelihood -4317.473725, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[27]: Time 0.265433 seconds, bootstrap likelihood -4458.300232, best rearrangement setting 11
+Bootstrap[28]: Time 0.325104 seconds, bootstrap likelihood -4603.217238, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[29]: Time 0.296481 seconds, bootstrap likelihood -4349.732536, best rearrangement setting 13
+Bootstrap[30]: Time 0.293037 seconds, bootstrap likelihood -4538.822621, best rearrangement setting 6
+Bootstrap[31]: Time 0.292108 seconds, bootstrap likelihood -4520.240707, best rearrangement setting 9
+Bootstrap[32]: Time 0.341918 seconds, bootstrap likelihood -4445.917551, best rearrangement setting 13
+Bootstrap[33]: Time 0.272527 seconds, bootstrap likelihood -4686.290111, best rearrangement setting 8
+Bootstrap[34]: Time 0.317360 seconds, bootstrap likelihood -4645.941132, best rearrangement setting 8
+Bootstrap[35]: Time 0.316151 seconds, bootstrap likelihood -4483.738877, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[36]: Time 0.290034 seconds, bootstrap likelihood -4638.489693, best rearrangement setting 5
+Bootstrap[37]: Time 0.267600 seconds, bootstrap likelihood -4480.832660, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[38]: Time 0.305540 seconds, bootstrap likelihood -4479.458455, best rearrangement setting 12
+Bootstrap[39]: Time 0.262504 seconds, bootstrap likelihood -4576.621352, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[40]: Time 0.290535 seconds, bootstrap likelihood -4610.082848, best rearrangement setting 14
+Bootstrap[41]: Time 0.285040 seconds, bootstrap likelihood -4506.142415, best rearrangement setting 13
+Bootstrap[42]: Time 0.315743 seconds, bootstrap likelihood -4544.449622, best rearrangement setting 10
+Bootstrap[43]: Time 0.299488 seconds, bootstrap likelihood -4385.178695, best rearrangement setting 13
+Bootstrap[44]: Time 0.346965 seconds, bootstrap likelihood -4649.775589, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[45]: Time 0.292610 seconds, bootstrap likelihood -4240.095119, best rearrangement setting 14
+Bootstrap[46]: Time 0.350699 seconds, bootstrap likelihood -4537.751119, best rearrangement setting 14
+Bootstrap[47]: Time 0.256040 seconds, bootstrap likelihood -4323.039454, best rearrangement setting 11
+Bootstrap[48]: Time 0.304426 seconds, bootstrap likelihood -4525.866196, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[49]: Time 0.309611 seconds, bootstrap likelihood -4510.690431, best rearrangement setting 15
+Bootstrap[50]: Time 0.347334 seconds, bootstrap likelihood -4348.188913, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[51]: Time 0.285695 seconds, bootstrap likelihood -4623.597639, best rearrangement setting 5
+Bootstrap[52]: Time 0.326703 seconds, bootstrap likelihood -4629.212708, best rearrangement setting 7
+Bootstrap[53]: Time 0.286250 seconds, bootstrap likelihood -4564.342664, best rearrangement setting 10
+Bootstrap[54]: Time 0.318861 seconds, bootstrap likelihood -4471.766613, best rearrangement setting 7
+Bootstrap[55]: Time 0.306171 seconds, bootstrap likelihood -4534.868072, best rearrangement setting 8
+Bootstrap[56]: Time 0.259479 seconds, bootstrap likelihood -4343.947729, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[57]: Time 0.266777 seconds, bootstrap likelihood -4464.753547, best rearrangement setting 12
+Bootstrap[58]: Time 0.311872 seconds, bootstrap likelihood -4550.439006, best rearrangement setting 15
+Bootstrap[59]: Time 0.322986 seconds, bootstrap likelihood -4588.064240, best rearrangement setting 6
+Bootstrap[60]: Time 0.312946 seconds, bootstrap likelihood -4433.981617, best rearrangement setting 9
+Bootstrap[61]: Time 0.355941 seconds, bootstrap likelihood -4581.931172, best rearrangement setting 9
+Bootstrap[62]: Time 0.324195 seconds, bootstrap likelihood -4660.105855, best rearrangement setting 10
+Bootstrap[63]: Time 0.270561 seconds, bootstrap likelihood -4528.338219, best rearrangement setting 12
+Bootstrap[64]: Time 0.319660 seconds, bootstrap likelihood -4482.575069, best rearrangement setting 11
+Bootstrap[65]: Time 0.264108 seconds, bootstrap likelihood -4541.209687, best rearrangement setting 8
+Bootstrap[66]: Time 0.262088 seconds, bootstrap likelihood -4439.074615, best rearrangement setting 13
+Bootstrap[67]: Time 0.265536 seconds, bootstrap likelihood -4531.506858, best rearrangement setting 15
+Bootstrap[68]: Time 0.281676 seconds, bootstrap likelihood -4581.977638, best rearrangement setting 10
+Bootstrap[69]: Time 0.313367 seconds, bootstrap likelihood -4480.771449, best rearrangement setting 13
+Bootstrap[70]: Time 0.307070 seconds, bootstrap likelihood -4473.646411, best rearrangement setting 11
+Bootstrap[71]: Time 0.337280 seconds, bootstrap likelihood -4312.503273, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[72]: Time 0.299219 seconds, bootstrap likelihood -4499.477437, best rearrangement setting 13
+Bootstrap[73]: Time 0.284647 seconds, bootstrap likelihood -4489.440963, best rearrangement setting 5
+Bootstrap[74]: Time 0.272918 seconds, bootstrap likelihood -4609.051679, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[75]: Time 0.282992 seconds, bootstrap likelihood -4554.436669, best rearrangement setting 11
+Bootstrap[76]: Time 0.346226 seconds, bootstrap likelihood -4751.577774, best rearrangement setting 6
+Bootstrap[77]: Time 0.303924 seconds, bootstrap likelihood -4640.884254, best rearrangement setting 8
+Bootstrap[78]: Time 0.301508 seconds, bootstrap likelihood -4607.905275, best rearrangement setting 13
+Bootstrap[79]: Time 0.278409 seconds, bootstrap likelihood -4370.306596, best rearrangement setting 13
+Bootstrap[80]: Time 0.301545 seconds, bootstrap likelihood -4559.942324, best rearrangement setting 9
+Bootstrap[81]: Time 0.276497 seconds, bootstrap likelihood -4460.740306, best rearrangement setting 10
+Bootstrap[82]: Time 0.278751 seconds, bootstrap likelihood -4273.148233, best rearrangement setting 7
+Bootstrap[83]: Time 0.300581 seconds, bootstrap likelihood -4646.663905, best rearrangement setting 6
+Bootstrap[84]: Time 0.320068 seconds, bootstrap likelihood -4490.760659, best rearrangement setting 15
+Bootstrap[85]: Time 0.246867 seconds, bootstrap likelihood -4494.302643, best rearrangement setting 10
+Bootstrap[86]: Time 0.288501 seconds, bootstrap likelihood -4669.215283, best rearrangement setting 9
+Bootstrap[87]: Time 0.268122 seconds, bootstrap likelihood -4620.769572, best rearrangement setting 5
+Bootstrap[88]: Time 0.354676 seconds, bootstrap likelihood -4654.664907, best rearrangement setting 12
+Bootstrap[89]: Time 0.294800 seconds, bootstrap likelihood -4443.606921, best rearrangement setting 6
+Bootstrap[90]: Time 0.319575 seconds, bootstrap likelihood -4500.490980, best rearrangement setting 13
+Bootstrap[91]: Time 0.282374 seconds, bootstrap likelihood -4425.449029, best rearrangement setting 8
+Bootstrap[92]: Time 0.271988 seconds, bootstrap likelihood -4506.162331, best rearrangement setting 7
+Bootstrap[93]: Time 0.269082 seconds, bootstrap likelihood -4529.075850, best rearrangement setting 11
+Bootstrap[94]: Time 0.340800 seconds, bootstrap likelihood -4467.795407, best rearrangement setting 15
+Bootstrap[95]: Time 0.295494 seconds, bootstrap likelihood -4483.603700, best rearrangement setting 15
+Bootstrap[96]: Time 0.341811 seconds, bootstrap likelihood -4636.698465, best rearrangement setting 5
+Bootstrap[97]: Time 0.313233 seconds, bootstrap likelihood -4527.828707, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[98]: Time 0.352178 seconds, bootstrap likelihood -4515.404902, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Phemeranthus_brevifolius_169"
+from the list to root the tree!
+Bootstrap[99]: Time 0.294838 seconds, bootstrap likelihood -4314.505232, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 30.441632 seconds
+Average Time per Rapid Bootstrap 0.304416 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 14.846505 seconds
+
+Slow ML Search 0 Likelihood: -5461.276015
+Slow ML Search 1 Likelihood: -5463.175722
+Slow ML Search 2 Likelihood: -5461.276016
+Slow ML Search 3 Likelihood: -5463.175721
+Slow ML Search 4 Likelihood: -5463.175722
+Slow ML Search 5 Likelihood: -5463.175721
+Slow ML Search 6 Likelihood: -5463.175722
+Slow ML Search 7 Likelihood: -5463.175722
+Slow ML Search 8 Likelihood: -5463.175721
+Slow ML Search 9 Likelihood: -5463.175721
+Slow ML optimization finished
+
+Slow ML search Time: 10.612803 seconds
+Thorough ML search Time: 1.538075 seconds
+
+Final ML Optimization Likelihood: -5453.970772
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.345424
+Tree-Length: 1.390013
+rate A <-> C: 2.373034
+rate A <-> G: 4.568811
+rate A <-> T: 1.328867
+rate C <-> G: 2.381755
+rate C <-> T: 4.865299
+rate G <-> T: 1.000000
+
+freq pi(A): 0.197465
+freq pi(C): 0.269282
+freq pi(G): 0.247182
+freq pi(T): 0.286070
+
+
+ML search took 27.001632 secs or 0.007500 hours
+
+Combined Bootstrap and ML search took 57.443368 secs or 0.015956 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_dit1_1_2_1_2
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_dit1_1_2_1_2
+
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_dit1_1_2_1_2
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_dit1_1_2_1_2
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_dit1_1_2_1_2
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_dit1_1_2_1_2
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_dit1_1_2_1_2
+
+Overall execution time for full ML analysis: 57.469390 secs or 0.015964 hours or 0.000665 days
+

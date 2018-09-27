@@ -1,0 +1,498 @@
+
+
+IMPORTANT WARNING: Sequences Calandrinia_reticulata_53 and Calandrinia_reticulata_149 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_amk1_1.phy.reduced
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 332 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 40.67%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 332
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_amk1_1.phy -n Ln1t6pgt1_amk1_1 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Montia_parviflora_27,Claytonia_washingtoniana_26,Claytonia_lanceolata_106,Claytonia_megarhiza_195,Calandrinia_compressa_144,Calandrinia_ciliata_2014 -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 0.368697
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[0]: Time 1.178432 seconds, bootstrap likelihood -3477.608445, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[1]: Time 0.825919 seconds, bootstrap likelihood -3138.273043, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[2]: Time 0.861091 seconds, bootstrap likelihood -3655.927250, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[3]: Time 0.872094 seconds, bootstrap likelihood -3346.163035, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[4]: Time 0.890040 seconds, bootstrap likelihood -3121.338921, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[5]: Time 0.977735 seconds, bootstrap likelihood -3403.441049, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[6]: Time 0.853179 seconds, bootstrap likelihood -3200.189536, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[7]: Time 0.695639 seconds, bootstrap likelihood -3528.114609, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[8]: Time 0.854621 seconds, bootstrap likelihood -3467.100600, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[9]: Time 0.683566 seconds, bootstrap likelihood -3383.536351, best rearrangement setting 14
+Bootstrap[10]: Time 0.795638 seconds, bootstrap likelihood -3295.411112, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[11]: Time 0.872115 seconds, bootstrap likelihood -3314.801510, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[12]: Time 0.811076 seconds, bootstrap likelihood -3666.262685, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[13]: Time 0.901075 seconds, bootstrap likelihood -3399.991899, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[14]: Time 0.788633 seconds, bootstrap likelihood -3408.218092, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[15]: Time 0.911183 seconds, bootstrap likelihood -3412.973274, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[16]: Time 0.871118 seconds, bootstrap likelihood -3365.505405, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[17]: Time 0.725489 seconds, bootstrap likelihood -3779.764521, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[18]: Time 0.822806 seconds, bootstrap likelihood -3267.760921, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[19]: Time 0.726083 seconds, bootstrap likelihood -3224.208692, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[20]: Time 0.778091 seconds, bootstrap likelihood -3264.423625, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[21]: Time 0.814598 seconds, bootstrap likelihood -3704.414830, best rearrangement setting 10
+Bootstrap[22]: Time 0.806342 seconds, bootstrap likelihood -3345.501367, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[23]: Time 0.830814 seconds, bootstrap likelihood -3370.260267, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[24]: Time 0.791070 seconds, bootstrap likelihood -3291.770277, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[25]: Time 0.775477 seconds, bootstrap likelihood -3218.834278, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[26]: Time 0.868228 seconds, bootstrap likelihood -3253.747422, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[27]: Time 0.795193 seconds, bootstrap likelihood -3184.321603, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[28]: Time 0.628969 seconds, bootstrap likelihood -3679.145888, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[29]: Time 0.779327 seconds, bootstrap likelihood -3441.723674, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[30]: Time 0.824419 seconds, bootstrap likelihood -3286.205581, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[31]: Time 0.677394 seconds, bootstrap likelihood -3564.511842, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[32]: Time 0.861027 seconds, bootstrap likelihood -3300.416644, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[33]: Time 0.876404 seconds, bootstrap likelihood -3523.013456, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[34]: Time 0.824640 seconds, bootstrap likelihood -3036.646982, best rearrangement setting 8
+Bootstrap[35]: Time 0.839217 seconds, bootstrap likelihood -3372.853170, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[36]: Time 0.779392 seconds, bootstrap likelihood -3737.813064, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[37]: Time 0.948993 seconds, bootstrap likelihood -3774.393516, best rearrangement setting 8
+Bootstrap[38]: Time 0.916840 seconds, bootstrap likelihood -3404.366507, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[39]: Time 0.943020 seconds, bootstrap likelihood -3293.181098, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[40]: Time 0.699462 seconds, bootstrap likelihood -3640.759339, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[41]: Time 0.895958 seconds, bootstrap likelihood -3477.704808, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[42]: Time 0.841997 seconds, bootstrap likelihood -3232.547021, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[43]: Time 0.951331 seconds, bootstrap likelihood -3426.350923, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[44]: Time 0.865127 seconds, bootstrap likelihood -3649.597447, best rearrangement setting 7
+Bootstrap[45]: Time 0.762765 seconds, bootstrap likelihood -3405.537762, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[46]: Time 0.934334 seconds, bootstrap likelihood -3631.496917, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[47]: Time 0.767449 seconds, bootstrap likelihood -3358.014509, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[48]: Time 0.885250 seconds, bootstrap likelihood -3427.088702, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[49]: Time 0.896284 seconds, bootstrap likelihood -3515.639314, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[50]: Time 0.703644 seconds, bootstrap likelihood -3430.616931, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[51]: Time 0.823921 seconds, bootstrap likelihood -3382.057368, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[52]: Time 0.771173 seconds, bootstrap likelihood -3187.584080, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[53]: Time 0.775046 seconds, bootstrap likelihood -3533.468417, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[54]: Time 0.872429 seconds, bootstrap likelihood -3313.756348, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[55]: Time 0.759294 seconds, bootstrap likelihood -3364.773132, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[56]: Time 0.898161 seconds, bootstrap likelihood -3251.985190, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[57]: Time 0.890926 seconds, bootstrap likelihood -3460.053021, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[58]: Time 0.903914 seconds, bootstrap likelihood -3217.190844, best rearrangement setting 15
+Bootstrap[59]: Time 0.847067 seconds, bootstrap likelihood -3420.897469, best rearrangement setting 6
+Bootstrap[60]: Time 0.865565 seconds, bootstrap likelihood -3339.314205, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[61]: Time 1.006171 seconds, bootstrap likelihood -3554.209474, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[62]: Time 0.840263 seconds, bootstrap likelihood -3461.921319, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[63]: Time 0.840449 seconds, bootstrap likelihood -3328.973960, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[64]: Time 0.775315 seconds, bootstrap likelihood -3078.546254, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[65]: Time 0.752987 seconds, bootstrap likelihood -3558.820637, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[66]: Time 0.716148 seconds, bootstrap likelihood -3597.811143, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[67]: Time 0.871360 seconds, bootstrap likelihood -3775.336568, best rearrangement setting 15
+Bootstrap[68]: Time 1.009058 seconds, bootstrap likelihood -3184.900307, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[69]: Time 0.781479 seconds, bootstrap likelihood -3417.233877, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[70]: Time 0.653355 seconds, bootstrap likelihood -3373.613925, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[71]: Time 0.756160 seconds, bootstrap likelihood -3452.952503, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[72]: Time 0.751407 seconds, bootstrap likelihood -3607.406731, best rearrangement setting 13
+Bootstrap[73]: Time 0.712063 seconds, bootstrap likelihood -3472.221257, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[74]: Time 0.874073 seconds, bootstrap likelihood -3415.687253, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[75]: Time 0.829334 seconds, bootstrap likelihood -3442.267343, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[76]: Time 0.666380 seconds, bootstrap likelihood -3562.297718, best rearrangement setting 6
+Bootstrap[77]: Time 0.899334 seconds, bootstrap likelihood -3717.056060, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[78]: Time 0.889308 seconds, bootstrap likelihood -3877.797006, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[79]: Time 0.736012 seconds, bootstrap likelihood -3352.047587, best rearrangement setting 13
+Bootstrap[80]: Time 0.859355 seconds, bootstrap likelihood -3494.534435, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[81]: Time 0.724097 seconds, bootstrap likelihood -3396.894578, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[82]: Time 0.728534 seconds, bootstrap likelihood -3722.551809, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[83]: Time 0.774826 seconds, bootstrap likelihood -3536.323605, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[84]: Time 0.814463 seconds, bootstrap likelihood -3414.981633, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[85]: Time 0.826766 seconds, bootstrap likelihood -3489.860538, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[86]: Time 0.933891 seconds, bootstrap likelihood -3369.701870, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[87]: Time 0.779838 seconds, bootstrap likelihood -3544.001661, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[88]: Time 0.872235 seconds, bootstrap likelihood -3577.764135, best rearrangement setting 12
+Bootstrap[89]: Time 0.722950 seconds, bootstrap likelihood -3628.112559, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[90]: Time 0.879139 seconds, bootstrap likelihood -3430.333667, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[91]: Time 0.791073 seconds, bootstrap likelihood -3349.215397, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[92]: Time 0.721241 seconds, bootstrap likelihood -3408.249850, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[93]: Time 0.773747 seconds, bootstrap likelihood -3629.146638, best rearrangement setting 11
+Bootstrap[94]: Time 0.799927 seconds, bootstrap likelihood -3592.913010, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[95]: Time 0.766699 seconds, bootstrap likelihood -3508.501208, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[96]: Time 0.709529 seconds, bootstrap likelihood -3658.449265, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[97]: Time 0.887940 seconds, bootstrap likelihood -3543.879543, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Bootstrap[98]: Time 0.857609 seconds, bootstrap likelihood -3352.483899, best rearrangement setting 7
+Bootstrap[99]: Time 0.733736 seconds, bootstrap likelihood -3421.466699, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 82.240381 seconds
+Average Time per Rapid Bootstrap 0.822404 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 86.317758 seconds
+
+Slow ML Search 0 Likelihood: -4108.911984
+Slow ML Search 1 Likelihood: -4108.911881
+Slow ML Search 2 Likelihood: -4108.911881
+Slow ML Search 3 Likelihood: -4108.911800
+Slow ML Search 4 Likelihood: -4108.911800
+Slow ML Search 5 Likelihood: -4108.911801
+Slow ML Search 6 Likelihood: -4108.911801
+Slow ML Search 7 Likelihood: -4108.911801
+Slow ML Search 8 Likelihood: -4108.911801
+Slow ML Search 9 Likelihood: -4108.911887
+Slow ML optimization finished
+
+Slow ML search Time: 57.300171 seconds
+Thorough ML search Time: 5.176775 seconds
+
+Final ML Optimization Likelihood: -4102.546122
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.378194
+Tree-Length: 12.274217
+rate A <-> C: 1.374925
+rate A <-> G: 3.399483
+rate A <-> T: 1.077664
+rate C <-> G: 1.227535
+rate C <-> T: 4.209984
+rate G <-> T: 1.000000
+
+freq pi(A): 0.290991
+freq pi(C): 0.178041
+freq pi(G): 0.263498
+freq pi(T): 0.267470
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+
+ML search took 148.796988 secs or 0.041332 hours
+
+Combined Bootstrap and ML search took 231.037476 secs or 0.064177 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_amk1_1
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_amk1_1
+
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+
+WARNING, outgroups are not monophyletic, using first outgroup "Montia_parviflora_27"
+from the list to root the tree!
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_amk1_1
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_amk1_1
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_amk1_1
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_amk1_1
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_amk1_1
+
+Overall execution time for full ML analysis: 231.046642 secs or 0.064180 hours or 0.002674 days
+

@@ -1,0 +1,257 @@
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 726 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 59.52%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 726
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nGroup_1213_3.phy -n Ln1t6pgt1_nGroup_1213_3 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Calyptridium_parryi_170,Calyptridium_umbellatum_193,Calyptridium_monospermum_108,Montiopsis_umbellata_225,Montiopsis_gayana_224,Cistanthe_grandiflora_199,Cistanthe_sp_219 -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 0.857875
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[0]: Time 1.980102 seconds, bootstrap likelihood -7488.983618, best rearrangement setting 10
+Bootstrap[1]: Time 1.100081 seconds, bootstrap likelihood -7680.319765, best rearrangement setting 15
+Bootstrap[2]: Time 1.077914 seconds, bootstrap likelihood -7273.634041, best rearrangement setting 15
+Bootstrap[3]: Time 0.963158 seconds, bootstrap likelihood -7323.867578, best rearrangement setting 12
+Bootstrap[4]: Time 1.095773 seconds, bootstrap likelihood -7818.654038, best rearrangement setting 9
+Bootstrap[5]: Time 1.074016 seconds, bootstrap likelihood -7574.198160, best rearrangement setting 12
+Bootstrap[6]: Time 0.932241 seconds, bootstrap likelihood -7332.268871, best rearrangement setting 14
+Bootstrap[7]: Time 1.011442 seconds, bootstrap likelihood -7360.086512, best rearrangement setting 10
+Bootstrap[8]: Time 0.988398 seconds, bootstrap likelihood -7397.017158, best rearrangement setting 13
+Bootstrap[9]: Time 1.041596 seconds, bootstrap likelihood -7675.492335, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[10]: Time 1.095303 seconds, bootstrap likelihood -7328.482498, best rearrangement setting 14
+Bootstrap[11]: Time 1.074015 seconds, bootstrap likelihood -7644.959365, best rearrangement setting 5
+Bootstrap[12]: Time 1.177076 seconds, bootstrap likelihood -7241.233143, best rearrangement setting 9
+Bootstrap[13]: Time 1.278801 seconds, bootstrap likelihood -7630.095995, best rearrangement setting 10
+Bootstrap[14]: Time 1.043322 seconds, bootstrap likelihood -7431.887663, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[15]: Time 1.205036 seconds, bootstrap likelihood -7463.917132, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[16]: Time 1.138817 seconds, bootstrap likelihood -7854.468545, best rearrangement setting 15
+Bootstrap[17]: Time 1.086094 seconds, bootstrap likelihood -7587.670019, best rearrangement setting 13
+Bootstrap[18]: Time 1.061942 seconds, bootstrap likelihood -7281.686175, best rearrangement setting 9
+Bootstrap[19]: Time 1.027589 seconds, bootstrap likelihood -7432.629737, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[20]: Time 1.088110 seconds, bootstrap likelihood -7265.867846, best rearrangement setting 13
+Bootstrap[21]: Time 1.153695 seconds, bootstrap likelihood -7773.178811, best rearrangement setting 10
+Bootstrap[22]: Time 0.983671 seconds, bootstrap likelihood -7349.514734, best rearrangement setting 5
+Bootstrap[23]: Time 0.998028 seconds, bootstrap likelihood -7473.290465, best rearrangement setting 10
+Bootstrap[24]: Time 1.052138 seconds, bootstrap likelihood -7598.875756, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[25]: Time 1.110061 seconds, bootstrap likelihood -7735.025014, best rearrangement setting 7
+Bootstrap[26]: Time 1.044106 seconds, bootstrap likelihood -7583.176391, best rearrangement setting 11
+Bootstrap[27]: Time 1.014862 seconds, bootstrap likelihood -7210.111968, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[28]: Time 1.009646 seconds, bootstrap likelihood -7199.598534, best rearrangement setting 8
+Bootstrap[29]: Time 0.970515 seconds, bootstrap likelihood -7398.924831, best rearrangement setting 13
+Bootstrap[30]: Time 1.040310 seconds, bootstrap likelihood -7635.808851, best rearrangement setting 6
+Bootstrap[31]: Time 1.071887 seconds, bootstrap likelihood -7406.738849, best rearrangement setting 9
+Bootstrap[32]: Time 1.152273 seconds, bootstrap likelihood -7339.806592, best rearrangement setting 13
+Bootstrap[33]: Time 1.093015 seconds, bootstrap likelihood -7501.194135, best rearrangement setting 8
+Bootstrap[34]: Time 1.071416 seconds, bootstrap likelihood -7569.164929, best rearrangement setting 8
+Bootstrap[35]: Time 0.976341 seconds, bootstrap likelihood -7352.450758, best rearrangement setting 12
+Bootstrap[36]: Time 1.012365 seconds, bootstrap likelihood -7639.216736, best rearrangement setting 5
+Bootstrap[37]: Time 1.053601 seconds, bootstrap likelihood -7262.924392, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[38]: Time 0.994037 seconds, bootstrap likelihood -7219.003005, best rearrangement setting 12
+Bootstrap[39]: Time 0.930874 seconds, bootstrap likelihood -7601.321895, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[40]: Time 1.023882 seconds, bootstrap likelihood -7336.585377, best rearrangement setting 14
+Bootstrap[41]: Time 0.919114 seconds, bootstrap likelihood -7735.051548, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[42]: Time 1.019714 seconds, bootstrap likelihood -7486.841709, best rearrangement setting 10
+Bootstrap[43]: Time 1.137838 seconds, bootstrap likelihood -7577.786240, best rearrangement setting 13
+Bootstrap[44]: Time 1.117701 seconds, bootstrap likelihood -7268.035709, best rearrangement setting 7
+Bootstrap[45]: Time 1.090860 seconds, bootstrap likelihood -7383.140197, best rearrangement setting 14
+Bootstrap[46]: Time 0.972212 seconds, bootstrap likelihood -7539.834220, best rearrangement setting 14
+Bootstrap[47]: Time 0.932709 seconds, bootstrap likelihood -7247.825355, best rearrangement setting 11
+Bootstrap[48]: Time 0.973630 seconds, bootstrap likelihood -7814.029099, best rearrangement setting 11
+Bootstrap[49]: Time 1.051035 seconds, bootstrap likelihood -7444.541454, best rearrangement setting 15
+Bootstrap[50]: Time 1.137460 seconds, bootstrap likelihood -7541.434457, best rearrangement setting 8
+Bootstrap[51]: Time 0.843238 seconds, bootstrap likelihood -7413.076283, best rearrangement setting 5
+Bootstrap[52]: Time 0.988487 seconds, bootstrap likelihood -7603.282883, best rearrangement setting 7
+Bootstrap[53]: Time 1.011476 seconds, bootstrap likelihood -7517.254440, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[54]: Time 1.060103 seconds, bootstrap likelihood -7479.211483, best rearrangement setting 7
+Bootstrap[55]: Time 1.160633 seconds, bootstrap likelihood -7634.277132, best rearrangement setting 8
+Bootstrap[56]: Time 0.990311 seconds, bootstrap likelihood -7220.368057, best rearrangement setting 5
+Bootstrap[57]: Time 1.115911 seconds, bootstrap likelihood -7610.941546, best rearrangement setting 12
+Bootstrap[58]: Time 1.123383 seconds, bootstrap likelihood -7838.925736, best rearrangement setting 15
+Bootstrap[59]: Time 0.945980 seconds, bootstrap likelihood -7244.498980, best rearrangement setting 6
+Bootstrap[60]: Time 1.082568 seconds, bootstrap likelihood -7483.111417, best rearrangement setting 9
+Bootstrap[61]: Time 1.205149 seconds, bootstrap likelihood -7535.965497, best rearrangement setting 9
+Bootstrap[62]: Time 1.006567 seconds, bootstrap likelihood -7433.303505, best rearrangement setting 10
+Bootstrap[63]: Time 1.118561 seconds, bootstrap likelihood -7527.872993, best rearrangement setting 12
+Bootstrap[64]: Time 1.080587 seconds, bootstrap likelihood -7625.980278, best rearrangement setting 11
+Bootstrap[65]: Time 0.967318 seconds, bootstrap likelihood -7328.842160, best rearrangement setting 8
+Bootstrap[66]: Time 1.074348 seconds, bootstrap likelihood -7683.958743, best rearrangement setting 13
+Bootstrap[67]: Time 1.084773 seconds, bootstrap likelihood -7790.589252, best rearrangement setting 15
+Bootstrap[68]: Time 1.054034 seconds, bootstrap likelihood -7321.693889, best rearrangement setting 10
+Bootstrap[69]: Time 1.027297 seconds, bootstrap likelihood -7547.206908, best rearrangement setting 13
+Bootstrap[70]: Time 1.114363 seconds, bootstrap likelihood -7423.090060, best rearrangement setting 11
+Bootstrap[71]: Time 1.094895 seconds, bootstrap likelihood -7546.504545, best rearrangement setting 11
+Bootstrap[72]: Time 0.934709 seconds, bootstrap likelihood -7451.453466, best rearrangement setting 13
+Bootstrap[73]: Time 0.926678 seconds, bootstrap likelihood -7422.799384, best rearrangement setting 5
+Bootstrap[74]: Time 1.048412 seconds, bootstrap likelihood -7561.954875, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Calyptridium_parryi_170"
+from the list to root the tree!
+Bootstrap[75]: Time 1.344709 seconds, bootstrap likelihood -7486.974095, best rearrangement setting 11
+Bootstrap[76]: Time 1.035463 seconds, bootstrap likelihood -7401.943507, best rearrangement setting 6
+Bootstrap[77]: Time 1.131490 seconds, bootstrap likelihood -7389.039787, best rearrangement setting 8
+Bootstrap[78]: Time 0.969260 seconds, bootstrap likelihood -7597.153333, best rearrangement setting 13
+Bootstrap[79]: Time 1.031354 seconds, bootstrap likelihood -7394.953348, best rearrangement setting 13
+Bootstrap[80]: Time 1.002660 seconds, bootstrap likelihood -7656.882201, best rearrangement setting 9
+Bootstrap[81]: Time 0.898618 seconds, bootstrap likelihood -7606.530935, best rearrangement setting 10
+Bootstrap[82]: Time 1.096153 seconds, bootstrap likelihood -7181.049056, best rearrangement setting 7
+Bootstrap[83]: Time 1.004087 seconds, bootstrap likelihood -7276.117756, best rearrangement setting 6
+Bootstrap[84]: Time 0.933043 seconds, bootstrap likelihood -7768.328010, best rearrangement setting 15
+Bootstrap[85]: Time 1.058964 seconds, bootstrap likelihood -7374.091082, best rearrangement setting 10
+Bootstrap[86]: Time 1.064440 seconds, bootstrap likelihood -7364.106230, best rearrangement setting 9
+Bootstrap[87]: Time 0.937605 seconds, bootstrap likelihood -7435.078585, best rearrangement setting 5
+Bootstrap[88]: Time 1.086161 seconds, bootstrap likelihood -7369.827182, best rearrangement setting 12
+Bootstrap[89]: Time 1.002613 seconds, bootstrap likelihood -7621.128026, best rearrangement setting 6
+Bootstrap[90]: Time 1.123464 seconds, bootstrap likelihood -7576.335786, best rearrangement setting 13
+Bootstrap[91]: Time 0.917860 seconds, bootstrap likelihood -7387.540280, best rearrangement setting 8
+Bootstrap[92]: Time 0.925007 seconds, bootstrap likelihood -7610.546245, best rearrangement setting 7
+Bootstrap[93]: Time 1.157312 seconds, bootstrap likelihood -7564.890704, best rearrangement setting 11
+Bootstrap[94]: Time 1.016026 seconds, bootstrap likelihood -7720.845984, best rearrangement setting 15
+Bootstrap[95]: Time 0.980410 seconds, bootstrap likelihood -7455.846016, best rearrangement setting 15
+Bootstrap[96]: Time 0.874916 seconds, bootstrap likelihood -7532.053138, best rearrangement setting 5
+Bootstrap[97]: Time 1.064087 seconds, bootstrap likelihood -7745.526433, best rearrangement setting 14
+Bootstrap[98]: Time 0.899662 seconds, bootstrap likelihood -7645.874836, best rearrangement setting 7
+Bootstrap[99]: Time 1.080918 seconds, bootstrap likelihood -7485.961383, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 105.373992 seconds
+Average Time per Rapid Bootstrap 1.053740 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 64.825293 seconds
+
+Slow ML Search 0 Likelihood: -8811.534706
+Slow ML Search 1 Likelihood: -8813.134849
+Slow ML Search 2 Likelihood: -8813.135185
+Slow ML Search 3 Likelihood: -8810.499033
+Slow ML Search 4 Likelihood: -8810.499119
+Slow ML Search 5 Likelihood: -8810.499205
+Slow ML Search 6 Likelihood: -8810.499207
+Slow ML Search 7 Likelihood: -8812.951799
+Slow ML Search 8 Likelihood: -8810.278181
+Slow ML Search 9 Likelihood: -8811.874591
+Slow ML optimization finished
+
+Slow ML search Time: 31.019894 seconds
+Thorough ML search Time: 7.083485 seconds
+
+Final ML Optimization Likelihood: -8805.444633
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.905626
+Tree-Length: 1.818270
+rate A <-> C: 0.919384
+rate A <-> G: 2.381852
+rate A <-> T: 0.882502
+rate C <-> G: 1.240397
+rate C <-> T: 4.014010
+rate G <-> T: 1.000000
+
+freq pi(A): 0.301550
+freq pi(C): 0.180895
+freq pi(G): 0.240711
+freq pi(T): 0.276843
+
+
+ML search took 102.934152 secs or 0.028593 hours
+
+Combined Bootstrap and ML search took 208.308246 secs or 0.057863 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nGroup_1213_3
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nGroup_1213_3
+
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_nGroup_1213_3
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_nGroup_1213_3
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nGroup_1213_3
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_nGroup_1213_3
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_nGroup_1213_3
+
+Overall execution time for full ML analysis: 208.314777 secs or 0.057865 hours or 0.002411 days
+

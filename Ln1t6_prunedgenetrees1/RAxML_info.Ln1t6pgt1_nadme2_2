@@ -1,0 +1,315 @@
+
+
+IMPORTANT WARNING: Sequences Calandrinia_ciliata_216 and Calandrinia_compressa_144 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nadme2_2.phy.reduced
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 561 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 57.82%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 561
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nadme2_2.phy -n Ln1t6pgt1_nadme2_2 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Amaranthus_hypochondriacus_tr,Beta_vulgaris_cds -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 1.209411
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[0]: Time 4.068537 seconds, bootstrap likelihood -7499.240770, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[1]: Time 2.698544 seconds, bootstrap likelihood -7888.821994, best rearrangement setting 15
+Bootstrap[2]: Time 2.832475 seconds, bootstrap likelihood -7231.081488, best rearrangement setting 15
+Bootstrap[3]: Time 2.916249 seconds, bootstrap likelihood -7727.312854, best rearrangement setting 12
+Bootstrap[4]: Time 2.920352 seconds, bootstrap likelihood -8196.747021, best rearrangement setting 9
+Bootstrap[5]: Time 3.117078 seconds, bootstrap likelihood -8400.150031, best rearrangement setting 12
+Bootstrap[6]: Time 3.040624 seconds, bootstrap likelihood -7655.828180, best rearrangement setting 14
+Bootstrap[7]: Time 2.960220 seconds, bootstrap likelihood -7743.232338, best rearrangement setting 10
+Bootstrap[8]: Time 3.126009 seconds, bootstrap likelihood -7526.872055, best rearrangement setting 13
+Bootstrap[9]: Time 2.636040 seconds, bootstrap likelihood -8083.214289, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[10]: Time 2.845227 seconds, bootstrap likelihood -8070.398289, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[11]: Time 2.484600 seconds, bootstrap likelihood -8270.334972, best rearrangement setting 5
+Bootstrap[12]: Time 2.693932 seconds, bootstrap likelihood -8141.190105, best rearrangement setting 9
+Bootstrap[13]: Time 2.957423 seconds, bootstrap likelihood -7759.887854, best rearrangement setting 10
+Bootstrap[14]: Time 3.043151 seconds, bootstrap likelihood -8322.735903, best rearrangement setting 13
+Bootstrap[15]: Time 2.747094 seconds, bootstrap likelihood -8075.852944, best rearrangement setting 6
+Bootstrap[16]: Time 2.819563 seconds, bootstrap likelihood -7596.838388, best rearrangement setting 15
+Bootstrap[17]: Time 2.983079 seconds, bootstrap likelihood -7513.678753, best rearrangement setting 13
+Bootstrap[18]: Time 2.606687 seconds, bootstrap likelihood -7805.131257, best rearrangement setting 9
+Bootstrap[19]: Time 2.732855 seconds, bootstrap likelihood -8361.432070, best rearrangement setting 8
+Bootstrap[20]: Time 2.687248 seconds, bootstrap likelihood -7285.308162, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[21]: Time 3.022207 seconds, bootstrap likelihood -8486.765766, best rearrangement setting 10
+Bootstrap[22]: Time 2.597414 seconds, bootstrap likelihood -8685.608046, best rearrangement setting 5
+Bootstrap[23]: Time 3.051514 seconds, bootstrap likelihood -7583.718431, best rearrangement setting 10
+Bootstrap[24]: Time 2.811383 seconds, bootstrap likelihood -8118.884154, best rearrangement setting 14
+Bootstrap[25]: Time 2.674607 seconds, bootstrap likelihood -7672.549110, best rearrangement setting 7
+Bootstrap[26]: Time 2.681791 seconds, bootstrap likelihood -7757.898570, best rearrangement setting 11
+Bootstrap[27]: Time 3.166458 seconds, bootstrap likelihood -8039.321465, best rearrangement setting 11
+Bootstrap[28]: Time 2.898301 seconds, bootstrap likelihood -7774.076441, best rearrangement setting 8
+Bootstrap[29]: Time 2.808269 seconds, bootstrap likelihood -7783.534947, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[30]: Time 2.508097 seconds, bootstrap likelihood -7323.988299, best rearrangement setting 6
+Bootstrap[31]: Time 2.663626 seconds, bootstrap likelihood -7811.511307, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[32]: Time 2.945445 seconds, bootstrap likelihood -8010.090157, best rearrangement setting 13
+Bootstrap[33]: Time 3.053843 seconds, bootstrap likelihood -8120.102902, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[34]: Time 2.740120 seconds, bootstrap likelihood -8083.822295, best rearrangement setting 8
+Bootstrap[35]: Time 3.062521 seconds, bootstrap likelihood -7548.524664, best rearrangement setting 12
+Bootstrap[36]: Time 3.070088 seconds, bootstrap likelihood -7924.028282, best rearrangement setting 5
+Bootstrap[37]: Time 2.624466 seconds, bootstrap likelihood -7946.597897, best rearrangement setting 8
+Bootstrap[38]: Time 2.918330 seconds, bootstrap likelihood -7796.553396, best rearrangement setting 12
+Bootstrap[39]: Time 3.021792 seconds, bootstrap likelihood -8136.336542, best rearrangement setting 13
+Bootstrap[40]: Time 2.622834 seconds, bootstrap likelihood -7650.259888, best rearrangement setting 14
+Bootstrap[41]: Time 3.321009 seconds, bootstrap likelihood -7627.131956, best rearrangement setting 13
+Bootstrap[42]: Time 2.808621 seconds, bootstrap likelihood -7997.396975, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[43]: Time 3.102909 seconds, bootstrap likelihood -8423.092275, best rearrangement setting 13
+Bootstrap[44]: Time 2.550869 seconds, bootstrap likelihood -7487.493822, best rearrangement setting 7
+Bootstrap[45]: Time 2.835082 seconds, bootstrap likelihood -8219.288363, best rearrangement setting 14
+Bootstrap[46]: Time 3.110952 seconds, bootstrap likelihood -7822.684595, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[47]: Time 2.851690 seconds, bootstrap likelihood -8098.071709, best rearrangement setting 11
+Bootstrap[48]: Time 2.684597 seconds, bootstrap likelihood -7954.648074, best rearrangement setting 11
+Bootstrap[49]: Time 2.569164 seconds, bootstrap likelihood -7487.598480, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[50]: Time 2.750222 seconds, bootstrap likelihood -7838.010663, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[51]: Time 2.594211 seconds, bootstrap likelihood -8010.254039, best rearrangement setting 5
+Bootstrap[52]: Time 2.928305 seconds, bootstrap likelihood -8198.485864, best rearrangement setting 7
+Bootstrap[53]: Time 2.855385 seconds, bootstrap likelihood -7897.802167, best rearrangement setting 10
+Bootstrap[54]: Time 2.904393 seconds, bootstrap likelihood -7808.825413, best rearrangement setting 7
+Bootstrap[55]: Time 3.012303 seconds, bootstrap likelihood -7626.793319, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[56]: Time 2.507485 seconds, bootstrap likelihood -7536.141595, best rearrangement setting 5
+Bootstrap[57]: Time 2.780067 seconds, bootstrap likelihood -7750.316240, best rearrangement setting 12
+Bootstrap[58]: Time 2.844351 seconds, bootstrap likelihood -8297.675038, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[59]: Time 2.804147 seconds, bootstrap likelihood -8486.538609, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[60]: Time 2.896927 seconds, bootstrap likelihood -7627.831042, best rearrangement setting 9
+Bootstrap[61]: Time 2.404954 seconds, bootstrap likelihood -7944.121136, best rearrangement setting 9
+Bootstrap[62]: Time 2.751303 seconds, bootstrap likelihood -7907.828100, best rearrangement setting 10
+Bootstrap[63]: Time 2.784715 seconds, bootstrap likelihood -8143.317885, best rearrangement setting 12
+Bootstrap[64]: Time 3.270299 seconds, bootstrap likelihood -7888.608449, best rearrangement setting 11
+Bootstrap[65]: Time 2.753971 seconds, bootstrap likelihood -7637.520862, best rearrangement setting 8
+Bootstrap[66]: Time 2.967972 seconds, bootstrap likelihood -8489.225185, best rearrangement setting 13
+Bootstrap[67]: Time 2.813235 seconds, bootstrap likelihood -7942.137127, best rearrangement setting 15
+Bootstrap[68]: Time 2.683765 seconds, bootstrap likelihood -7934.903937, best rearrangement setting 10
+Bootstrap[69]: Time 3.200241 seconds, bootstrap likelihood -8226.568901, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[70]: Time 3.040159 seconds, bootstrap likelihood -7664.391322, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[71]: Time 2.873854 seconds, bootstrap likelihood -7796.393485, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[72]: Time 2.968572 seconds, bootstrap likelihood -8288.384852, best rearrangement setting 13
+Bootstrap[73]: Time 2.562419 seconds, bootstrap likelihood -7973.931707, best rearrangement setting 5
+Bootstrap[74]: Time 2.873386 seconds, bootstrap likelihood -7652.954923, best rearrangement setting 6
+Bootstrap[75]: Time 2.830810 seconds, bootstrap likelihood -7850.918552, best rearrangement setting 11
+Bootstrap[76]: Time 2.731828 seconds, bootstrap likelihood -7676.260788, best rearrangement setting 6
+Bootstrap[77]: Time 2.364117 seconds, bootstrap likelihood -7987.343538, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[78]: Time 2.502669 seconds, bootstrap likelihood -7984.928725, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[79]: Time 2.701940 seconds, bootstrap likelihood -7468.774249, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[80]: Time 3.068486 seconds, bootstrap likelihood -7817.793264, best rearrangement setting 9
+Bootstrap[81]: Time 3.107105 seconds, bootstrap likelihood -8128.670221, best rearrangement setting 10
+Bootstrap[82]: Time 2.878382 seconds, bootstrap likelihood -7623.293060, best rearrangement setting 7
+Bootstrap[83]: Time 2.651393 seconds, bootstrap likelihood -8117.776765, best rearrangement setting 6
+Bootstrap[84]: Time 2.851188 seconds, bootstrap likelihood -7797.847034, best rearrangement setting 15
+Bootstrap[85]: Time 3.057513 seconds, bootstrap likelihood -7798.471327, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[86]: Time 3.048551 seconds, bootstrap likelihood -7386.186226, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[87]: Time 2.783243 seconds, bootstrap likelihood -7771.147670, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[88]: Time 2.788271 seconds, bootstrap likelihood -8029.239555, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[89]: Time 2.683462 seconds, bootstrap likelihood -7807.100480, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[90]: Time 2.894034 seconds, bootstrap likelihood -7768.713209, best rearrangement setting 13
+Bootstrap[91]: Time 3.041884 seconds, bootstrap likelihood -7877.864736, best rearrangement setting 8
+Bootstrap[92]: Time 2.965094 seconds, bootstrap likelihood -7838.004808, best rearrangement setting 7
+Bootstrap[93]: Time 2.698573 seconds, bootstrap likelihood -7705.318541, best rearrangement setting 11
+Bootstrap[94]: Time 2.739146 seconds, bootstrap likelihood -7508.709770, best rearrangement setting 15
+Bootstrap[95]: Time 2.917752 seconds, bootstrap likelihood -7769.661460, best rearrangement setting 15
+Bootstrap[96]: Time 2.649621 seconds, bootstrap likelihood -7674.502321, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[97]: Time 2.940663 seconds, bootstrap likelihood -7923.782896, best rearrangement setting 14
+Bootstrap[98]: Time 2.847901 seconds, bootstrap likelihood -8398.052030, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Amaranthus_hypochondriacus_tr"
+from the list to root the tree!
+Bootstrap[99]: Time 2.886806 seconds, bootstrap likelihood -7981.013161, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 285.196225 seconds
+Average Time per Rapid Bootstrap 2.851962 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 224.309494 seconds
+
+Slow ML Search 0 Likelihood: -8987.581793
+Slow ML Search 1 Likelihood: -8986.292137
+Slow ML Search 2 Likelihood: -8985.657069
+Slow ML Search 3 Likelihood: -8990.682217
+Slow ML Search 4 Likelihood: -8985.387422
+Slow ML Search 5 Likelihood: -8986.749542
+Slow ML Search 6 Likelihood: -8986.688322
+Slow ML Search 7 Likelihood: -8992.772974
+Slow ML Search 8 Likelihood: -8993.083169
+Slow ML Search 9 Likelihood: -8988.582225
+Slow ML optimization finished
+
+Slow ML search Time: 233.116413 seconds
+Thorough ML search Time: 19.700075 seconds
+
+Final ML Optimization Likelihood: -8986.262724
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.520001
+Tree-Length: 4.066119
+rate A <-> C: 2.062767
+rate A <-> G: 4.215417
+rate A <-> T: 1.349446
+rate C <-> G: 1.595507
+rate C <-> T: 5.291306
+rate G <-> T: 1.000000
+
+freq pi(A): 0.274088
+freq pi(C): 0.178501
+freq pi(G): 0.274999
+freq pi(T): 0.272412
+
+
+ML search took 477.135085 secs or 0.132538 hours
+
+Combined Bootstrap and ML search took 762.331411 secs or 0.211759 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadme2_2
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadme2_2
+
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_nadme2_2
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_nadme2_2
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nadme2_2
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_nadme2_2
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_nadme2_2
+
+Overall execution time for full ML analysis: 762.346292 secs or 0.211763 hours or 0.008823 days
+

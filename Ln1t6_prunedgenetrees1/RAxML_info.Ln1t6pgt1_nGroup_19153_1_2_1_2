@@ -1,0 +1,377 @@
+
+
+This is RAxML version 8.0.22 released by Alexandros Stamatakis on May 6 2014.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 544 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 65.02%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+ML estimate of 25 per site rate categories
+
+Likelihood of final tree will be evaluated and optimized under GAMMA
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 544
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -s /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/Ln1t6pgt1_nGroup_19153_1_2_1_2.phy -n Ln1t6pgt1_nGroup_19153_1_2_1_2 -m GTRCAT -p 1234 -f a -N 100 -x 1234 -o Rumicastrum_chamaecladum_123,Calandrinia_pickeringii_165,Calandrinia_pumila_60,Calandrinia_gracilis_176,Calandrinia_mirabilis_85,Calandrinia_ptychosperma_166 -w /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/ 
+
+
+
+Time for BS model parameter optimization 0.620893
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[0]: Time 1.147995 seconds, bootstrap likelihood -6209.080702, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[1]: Time 0.531225 seconds, bootstrap likelihood -6158.307092, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[2]: Time 0.471534 seconds, bootstrap likelihood -6046.258884, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[3]: Time 0.445737 seconds, bootstrap likelihood -6152.788582, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[4]: Time 0.435413 seconds, bootstrap likelihood -6223.794323, best rearrangement setting 9
+Bootstrap[5]: Time 0.498982 seconds, bootstrap likelihood -6141.037499, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[6]: Time 0.487164 seconds, bootstrap likelihood -6240.189041, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[7]: Time 0.532475 seconds, bootstrap likelihood -6403.917798, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[8]: Time 0.474881 seconds, bootstrap likelihood -6438.794672, best rearrangement setting 13
+Bootstrap[9]: Time 0.448087 seconds, bootstrap likelihood -6110.004495, best rearrangement setting 14
+Bootstrap[10]: Time 0.515512 seconds, bootstrap likelihood -6345.464957, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[11]: Time 0.485950 seconds, bootstrap likelihood -6134.578397, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[12]: Time 0.446532 seconds, bootstrap likelihood -6078.353245, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[13]: Time 0.455024 seconds, bootstrap likelihood -6149.726343, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[14]: Time 0.454105 seconds, bootstrap likelihood -6199.868467, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[15]: Time 0.385189 seconds, bootstrap likelihood -5945.019006, best rearrangement setting 6
+Bootstrap[16]: Time 0.420934 seconds, bootstrap likelihood -5985.344429, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[17]: Time 0.454088 seconds, bootstrap likelihood -6333.651748, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[18]: Time 0.417880 seconds, bootstrap likelihood -6051.013339, best rearrangement setting 9
+Bootstrap[19]: Time 0.460204 seconds, bootstrap likelihood -6259.722948, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[20]: Time 0.450527 seconds, bootstrap likelihood -6175.354050, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[21]: Time 0.460560 seconds, bootstrap likelihood -5935.670319, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[22]: Time 0.480976 seconds, bootstrap likelihood -6133.792477, best rearrangement setting 5
+Bootstrap[23]: Time 0.417669 seconds, bootstrap likelihood -6192.406818, best rearrangement setting 10
+Bootstrap[24]: Time 0.440907 seconds, bootstrap likelihood -6246.583049, best rearrangement setting 14
+Bootstrap[25]: Time 0.499004 seconds, bootstrap likelihood -6233.332423, best rearrangement setting 7
+Bootstrap[26]: Time 0.412633 seconds, bootstrap likelihood -6204.848780, best rearrangement setting 11
+Bootstrap[27]: Time 0.333062 seconds, bootstrap likelihood -6208.538564, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[28]: Time 0.464834 seconds, bootstrap likelihood -5957.324015, best rearrangement setting 8
+Bootstrap[29]: Time 0.400344 seconds, bootstrap likelihood -6134.751732, best rearrangement setting 13
+Bootstrap[30]: Time 0.552124 seconds, bootstrap likelihood -6018.575353, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[31]: Time 0.581329 seconds, bootstrap likelihood -6483.558076, best rearrangement setting 9
+Bootstrap[32]: Time 0.403706 seconds, bootstrap likelihood -6227.990708, best rearrangement setting 13
+Bootstrap[33]: Time 0.517869 seconds, bootstrap likelihood -6201.529609, best rearrangement setting 8
+Bootstrap[34]: Time 0.504987 seconds, bootstrap likelihood -6109.858458, best rearrangement setting 8
+Bootstrap[35]: Time 0.470969 seconds, bootstrap likelihood -6292.986918, best rearrangement setting 12
+Bootstrap[36]: Time 0.454673 seconds, bootstrap likelihood -6137.743960, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[37]: Time 0.496311 seconds, bootstrap likelihood -6084.713907, best rearrangement setting 8
+Bootstrap[38]: Time 0.539111 seconds, bootstrap likelihood -6085.552551, best rearrangement setting 12
+Bootstrap[39]: Time 0.423591 seconds, bootstrap likelihood -5966.015958, best rearrangement setting 13
+Bootstrap[40]: Time 0.502638 seconds, bootstrap likelihood -6303.072937, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[41]: Time 0.433026 seconds, bootstrap likelihood -6072.371175, best rearrangement setting 13
+Bootstrap[42]: Time 0.490167 seconds, bootstrap likelihood -6193.364103, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[43]: Time 0.433063 seconds, bootstrap likelihood -6070.883860, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[44]: Time 0.363073 seconds, bootstrap likelihood -6071.669312, best rearrangement setting 7
+Bootstrap[45]: Time 0.501821 seconds, bootstrap likelihood -6238.022718, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[46]: Time 0.457045 seconds, bootstrap likelihood -6172.953196, best rearrangement setting 14
+Bootstrap[47]: Time 0.429030 seconds, bootstrap likelihood -6162.770247, best rearrangement setting 11
+Bootstrap[48]: Time 0.453559 seconds, bootstrap likelihood -6195.977857, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[49]: Time 0.492348 seconds, bootstrap likelihood -6238.694581, best rearrangement setting 15
+Bootstrap[50]: Time 0.460352 seconds, bootstrap likelihood -6234.685650, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[51]: Time 0.365927 seconds, bootstrap likelihood -6079.025592, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[52]: Time 0.552731 seconds, bootstrap likelihood -6272.922479, best rearrangement setting 7
+Bootstrap[53]: Time 0.474349 seconds, bootstrap likelihood -5807.674102, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[54]: Time 0.414795 seconds, bootstrap likelihood -6192.496634, best rearrangement setting 7
+Bootstrap[55]: Time 0.443091 seconds, bootstrap likelihood -6046.345183, best rearrangement setting 8
+Bootstrap[56]: Time 0.401293 seconds, bootstrap likelihood -6171.051145, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[57]: Time 0.469563 seconds, bootstrap likelihood -6119.419333, best rearrangement setting 12
+Bootstrap[58]: Time 0.407655 seconds, bootstrap likelihood -6129.614248, best rearrangement setting 15
+Bootstrap[59]: Time 0.389381 seconds, bootstrap likelihood -6068.153902, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[60]: Time 0.671436 seconds, bootstrap likelihood -6396.942372, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[61]: Time 0.440480 seconds, bootstrap likelihood -6322.172984, best rearrangement setting 9
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[62]: Time 0.454473 seconds, bootstrap likelihood -6069.429198, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[63]: Time 0.380804 seconds, bootstrap likelihood -6252.384296, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[64]: Time 0.412179 seconds, bootstrap likelihood -6196.306202, best rearrangement setting 11
+Bootstrap[65]: Time 0.397257 seconds, bootstrap likelihood -6331.596978, best rearrangement setting 8
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[66]: Time 0.431524 seconds, bootstrap likelihood -5938.322220, best rearrangement setting 13
+Bootstrap[67]: Time 0.554574 seconds, bootstrap likelihood -6427.344942, best rearrangement setting 15
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[68]: Time 0.422523 seconds, bootstrap likelihood -6205.440716, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[69]: Time 0.441053 seconds, bootstrap likelihood -6092.942032, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[70]: Time 0.606644 seconds, bootstrap likelihood -5996.302407, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[71]: Time 0.541255 seconds, bootstrap likelihood -6102.080891, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[72]: Time 0.422614 seconds, bootstrap likelihood -6308.148684, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[73]: Time 0.559412 seconds, bootstrap likelihood -6326.993581, best rearrangement setting 5
+Bootstrap[74]: Time 0.387124 seconds, bootstrap likelihood -6055.588394, best rearrangement setting 6
+Bootstrap[75]: Time 0.507615 seconds, bootstrap likelihood -6359.434906, best rearrangement setting 11
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[76]: Time 0.500103 seconds, bootstrap likelihood -6176.169643, best rearrangement setting 6
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[77]: Time 0.418876 seconds, bootstrap likelihood -6201.929336, best rearrangement setting 8
+Bootstrap[78]: Time 0.505141 seconds, bootstrap likelihood -6188.061954, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[79]: Time 0.526030 seconds, bootstrap likelihood -6335.468892, best rearrangement setting 13
+Bootstrap[80]: Time 0.554780 seconds, bootstrap likelihood -6231.682307, best rearrangement setting 9
+Bootstrap[81]: Time 0.574078 seconds, bootstrap likelihood -6309.311392, best rearrangement setting 10
+Bootstrap[82]: Time 0.556546 seconds, bootstrap likelihood -6229.998957, best rearrangement setting 7
+Bootstrap[83]: Time 0.465889 seconds, bootstrap likelihood -6014.082031, best rearrangement setting 6
+Bootstrap[84]: Time 0.460599 seconds, bootstrap likelihood -6155.549452, best rearrangement setting 15
+Bootstrap[85]: Time 0.480125 seconds, bootstrap likelihood -6074.355918, best rearrangement setting 10
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[86]: Time 0.406754 seconds, bootstrap likelihood -6286.214335, best rearrangement setting 9
+Bootstrap[87]: Time 0.450814 seconds, bootstrap likelihood -6049.836434, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[88]: Time 0.521536 seconds, bootstrap likelihood -6096.825574, best rearrangement setting 12
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[89]: Time 0.426118 seconds, bootstrap likelihood -5881.738755, best rearrangement setting 6
+Bootstrap[90]: Time 0.579641 seconds, bootstrap likelihood -6336.605325, best rearrangement setting 13
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[91]: Time 0.545578 seconds, bootstrap likelihood -6307.220880, best rearrangement setting 8
+Bootstrap[92]: Time 0.482523 seconds, bootstrap likelihood -6279.033010, best rearrangement setting 7
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[93]: Time 0.580545 seconds, bootstrap likelihood -6073.892088, best rearrangement setting 11
+Bootstrap[94]: Time 0.540356 seconds, bootstrap likelihood -6176.060466, best rearrangement setting 15
+Bootstrap[95]: Time 0.501353 seconds, bootstrap likelihood -6230.837482, best rearrangement setting 15
+Bootstrap[96]: Time 0.238828 seconds, bootstrap likelihood -6026.478215, best rearrangement setting 5
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[97]: Time 0.510521 seconds, bootstrap likelihood -6277.193435, best rearrangement setting 14
+
+WARNING, outgroups are not monophyletic, using first outgroup "Rumicastrum_chamaecladum_123"
+from the list to root the tree!
+Bootstrap[98]: Time 0.468404 seconds, bootstrap likelihood -6297.972367, best rearrangement setting 7
+Bootstrap[99]: Time 0.480705 seconds, bootstrap likelihood -6109.633597, best rearrangement setting 10
+
+
+Overall Time for 100 Rapid Bootstraps 47.644288 seconds
+Average Time per Rapid Bootstrap 0.476443 seconds
+
+Starting ML Search ...
+
+Fast ML optimization finished
+
+Fast ML search Time: 30.283967 seconds
+
+Slow ML Search 0 Likelihood: -7403.464738
+Slow ML Search 1 Likelihood: -7403.464733
+Slow ML Search 2 Likelihood: -7404.591279
+Slow ML Search 3 Likelihood: -7404.591386
+Slow ML Search 4 Likelihood: -7404.591377
+Slow ML Search 5 Likelihood: -7403.464733
+Slow ML Search 6 Likelihood: -7404.596878
+Slow ML Search 7 Likelihood: -7403.643246
+Slow ML Search 8 Likelihood: -7403.643247
+Slow ML Search 9 Likelihood: -7403.643245
+Slow ML optimization finished
+
+Slow ML search Time: 13.417733 seconds
+Thorough ML search Time: 2.406487 seconds
+
+Final ML Optimization Likelihood: -7403.382379
+
+Model Information:
+
+Model Parameters of Partition 0, Name: No Name Provided, Type of Data: DNA
+alpha: 0.338664
+Tree-Length: 1.312988
+rate A <-> C: 1.620256
+rate A <-> G: 2.650875
+rate A <-> T: 1.411332
+rate C <-> G: 1.107547
+rate C <-> T: 5.899663
+rate G <-> T: 1.000000
+
+freq pi(A): 0.257053
+freq pi(C): 0.217242
+freq pi(G): 0.275252
+freq pi(T): 0.250453
+
+
+ML search took 46.118749 secs or 0.012811 hours
+
+Combined Bootstrap and ML search took 93.763138 secs or 0.026045 hours
+
+Drawing Bootstrap Support Values on best-scoring ML tree ...
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nGroup_19153_1_2_1_2
+
+
+
+Found 1 tree in File /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nGroup_19153_1_2_1_2
+
+Program execution info written to /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_info.Ln1t6pgt1_nGroup_19153_1_2_1_2
+All 100 bootstrapped trees written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bootstrap.Ln1t6pgt1_nGroup_19153_1_2_1_2
+
+Best-scoring ML tree written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bestTree.Ln1t6pgt1_nGroup_19153_1_2_1_2
+
+Best-scoring ML tree with support values written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitions.Ln1t6pgt1_nGroup_19153_1_2_1_2
+
+Best-scoring ML tree with support values as branch labels written to: /users/lhancock/data/sequences/analyses_temp/lph_lane6_20161104/Ln_1t6/Ln1t6_prunedgenetrees1/RAxML_bipartitionsBranchLabels.Ln1t6pgt1_nGroup_19153_1_2_1_2
+
+Overall execution time for full ML analysis: 93.795499 secs or 0.026054 hours or 0.001086 days
+
